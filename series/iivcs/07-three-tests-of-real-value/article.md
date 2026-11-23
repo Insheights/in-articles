@@ -29,7 +29,7 @@ Every outcome, at every level of the chain, has to pass three tests. Each asks s
 
 → **Effectiveness (Achieve):** do they get the result they came for, the one the value proposition promised?
 
-In the framework behind this series, these are the 3E model. What makes them useful is the order. Most measurement frameworks treat their dimensions as parallel lenses to watch at once. 3E reads them as a sequence, because that’s the order in which a stakeholder meets value. They can’t feel value they can’t use, and they won’t stay long enough to achieve anything with value they don’t trust.
+In the framework behind this series, these are the [3E model](https://github.com/Insheights/in-frameworks/blob/master/3e.md). What makes them useful is the order. 3E reads them as a sequence, not as parallel lenses to watch at once, because that’s the order in which a stakeholder usually meets value. They can’t feel value they can’t use, and they won’t stay long enough to achieve anything with value they don’t trust. The sequence is a reasoned model of where value tends to break down, not a proven causal law. Treat it as the order to look in, then confirm what you find with evidence.
 
 Each test has its own role. Efficiency is the table stake: when it fails, you can’t reach the other two. Experience is the bridge: it’s the earliest signal that value is being realized, and the best early warning that achievement will or won’t follow. Effectiveness is the proof: it confirms that the value proposition was delivered, not merely that the system ran. The first two show up in days or weeks. The third confirms last.
 
@@ -51,7 +51,7 @@ Stocklight, the illustrative company we’ve followed through this series, sells
 
 Three months into that test, the Customer Experience stream owner’s review looked good:
 
-> ***The bet:*** *78% of inventory managers acted on an alert in their first month, against a revisit threshold of 70%*
+> ***The bet:*** *78% of inventory managers acted on an alert in their first month, against a rejection condition of 70%*
 
 > ***Adoption team:*** *emergency orders down 24% at day 45, on track for 30% by day 60*
 
@@ -105,21 +105,19 @@ Researchers in usability, customer loyalty, and measurement have each found part
 
 **A target changes what it measures.** The economist Charles Goodhart observed in 1975 that a statistical relationship tends to break down once it’s used for control, an idea the anthropologist Marilyn Strathern later condensed into the familiar warning that a measure turned into a target stops being a good measure. The three tests are a practical defense. An outcome that moves while stakeholders’ effort rises, their trust falls, or their real result stays flat has been gamed, even if nobody meant to.
 
-One caution belongs here too. The Use, Feel, Achieve sequence is a reasoned model of where value tends to break down, not a proven causal law. Treat it as the order to look in, then confirm what you find with evidence.
-
 The common lesson: a moved outcome tells you something changed. The stakeholder tells you whether it was value.
 
 ## Writing your own
 
 **Template 7: the 3E outcome profile.** This sits beside the team outcome brief from the last article. The brief names the outcome a team owns. The profile names the three tests that outcome has to pass.
 
-> *For **[outcome]** at the **[value stage]** stage, **[stakeholder]** can use it if **[effort, time, or cost signal]** stays below **[threshold]**; they feel it if **[trust or confidence signal]** reaches **[threshold]**; and they achieve it if **[outcome measure]** moves from **[baseline]** to **[target]** by **[date]** without **[the workaround that would fake it]**. We read Use every **[cadence]**, Feel every **[cadence]**, and Achieve every **[cadence]**, in that order.*
+> *For **[outcome]** at the **[value stage]** stage, **[stakeholder]** can use it if **[effort, time, or cost signal]** stays below **[threshold, a starting band set from your baseline]**; they feel it if **[trust or confidence signal]** reaches **[threshold, a starting band set from your baseline]**; and they achieve it if **[outcome measure]** moves from **[baseline]** to **[target]** by **[date]** without **[the workaround that would fake it]**. We read Use every **[cadence]**, Feel every **[cadence]**, and Achieve every **[cadence]**, in that order.*
 
 Stocklight’s Adoption team:
 
 > *For emergency orders falling 30% within 60 days of go-live at the Adopt & Use stage, inventory managers can use it if alerts stay below eight a day and take less than 15 minutes to clear; they feel it if 70% order from an alert without checking a spreadsheet first and 60% still act on alerts in their third month; and they achieve it if emergency orders fall 30% within 60 days of go-live without safety stock rising. We read Use weekly, Feel weekly with monthly discovery visits, and Achieve monthly, in that order.*
 
-If you can’t fill in the “without” blank, you haven’t yet asked how your outcome could move without creating value. Someone on your team will eventually find out for you. All the templates, including Stocklight’s examples, are in the framework repo on GitHub.
+If you can’t fill in the “without” blank, you haven’t yet asked how your outcome could move without creating value. Someone on your team will eventually find out for you. In IIVCS, the [3E model](https://github.com/Insheights/in-frameworks/blob/master/3e.md) defines the three tests, and the [metrics and indicators guide](https://github.com/Insheights/in-frameworks/blob/master/metrics-and-indicators.md#part-5--thresholds-and-reference-bars) gives candidate signals for each and how to set their thresholds.
 
 ## Test your outcomes
 
@@ -138,5 +136,7 @@ If you can’t answer the first, you’re tracking outcomes without seeing what 
 Three tests tell you whether you delivered value. They don’t tell you what stakeholders do about it. The next article shifts from how you deliver value to what it produces in behavior: whether stakeholders adopt it, engage with it, and keep using it.
 
 The framework behind this series is open on GitHub: [github.com/Insheights/in-frameworks](https://github.com/Insheights/in-frameworks)
+
+**Where does your organization stand?** The [Quick Self-Assessment](https://github.com/Insheights/in-frameworks/blob/master/quick-assessment.md) gives a directional reading in a few minutes: eight questions on how well strategy, teams, delivery and measurement work together.
 
 *Pick the outcome your team moved most this quarter. Would the people it was for say they feel the difference?*

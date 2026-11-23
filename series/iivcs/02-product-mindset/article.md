@@ -73,7 +73,7 @@ What Stocklight writes down now:
 
 > *By 2028, we will grow revenue from distributors to $40M by serving regional industrial distributors in North America through direct and partner channels with real-time inventory visibility, winning because our platform connects to the warehouse systems they already run, with nothing to replace.*
 
-The template behind it:
+**Template 1: the strategy statement.** The template behind it:
 
 > *By [time horizon], we will [specific, measurable objective] by serving [target customers/segments] in [markets, geographies, channels] with [offering], winning because [source of advantage competitors can’t easily match].*
 
@@ -101,7 +101,7 @@ What Stocklight writes down now:
 
 > *By Q4 2027, we will move from onboarding customers through separate sales, installation, and support teams to onboarding each distributor through a single customer success team, so that distributors can go from signed contract to live inventory data without being passed between departments, measured by onboarding time falling from 90 days to 30.*
 
-The template behind it:
+**Template 2: the transformation statement.** The template behind it:
 
 > *By [time horizon], we will move from [how we work today] to [how we will work] so that [who is affected] can [do what they can’t do today], measured by [change in results].*
 
@@ -127,7 +127,7 @@ What Stocklight writes down now:
 
 > *Distributor inventory managers will reduce stockouts using real-time inventory visibility within 60 days of going live, and we will know because emergency orders at their warehouses fall.*
 
-The template behind it:
+**Template 3: the value delivery statement.** The template behind it:
 
 > *[Target customers] will [achieve a specific result] using [offering] within [time after they get access], and we will know because [evidence of the outcome].*
 
@@ -157,7 +157,11 @@ I’m starting with mindset on purpose. Every operating model, transformation ap
 
 A mindset alone isn’t enough, though. It needs a structure to work inside. Mindset without structure becomes a slogan, and structure without mindset becomes a reorg. The rest of this series is about building both.
 
+In IIVCS, Product Mindset is the operating philosophy: the framework's [README](https://github.com/Insheights/in-frameworks) sets out the five principles and shows how each one works in OSM, PTS and CVDM.
+
 The framework behind this series is open on GitHub: [github.com/Insheights/in-frameworks](https://github.com/Insheights/in-frameworks)
+
+**Where does your organization stand?** The [Quick Self-Assessment](https://github.com/Insheights/in-frameworks/blob/master/quick-assessment.md) gives a directional reading in a few minutes: eight questions on how well strategy, teams, delivery and measurement work together.
 
 **Next in the series:** We’ll look at exactly where value leaks between a plan and a delivered outcome, and why good intentions can’t plug those leaks on their own.
 

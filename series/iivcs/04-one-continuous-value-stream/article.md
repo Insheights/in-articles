@@ -21,13 +21,13 @@ If the leaks live between functions, better functions won't close them. Somethin
 
 ## What a value stream is
 
-A value stream is the end-to-end set of value-adding stages that creates an overall result for a stakeholder. It starts with a triggering stakeholder, the customer or other party whose need sets it in motion. Each stage adds an increment of value for that stakeholder, called a value item, and the value items build on one another until the stream delivers its value proposition.
+In business architecture practice, a value stream is the end-to-end set of value-adding stages that creates an overall result for a stakeholder. It starts with a triggering stakeholder, the customer or other party whose need sets it in motion. Each stage adds an increment of value for that stakeholder, called a value item, and the value items build on one another until the stream delivers its value proposition.
 
 A value stream isn't a department, and it isn't a process. A department is defined by the work it does, and a process describes how internal work gets done. A value stream is defined by the value a stakeholder receives, and it draws on every capability that value depends on.
 
 A value stream also outlasts the initiatives that run through it. Initiatives come and go. The stream is the stable path they travel.
 
-This series adds two things to that definition. First, a return path: evidence of what the stakeholder actually experienced travels back along the stream, so it can change what happens next. The second is an owner. A stream that nobody owns can be mapped perfectly and still leak value at every handoff.
+IIVCS adds two things to that definition. First, a return path: evidence of what the stakeholder actually experienced travels back along the stream, so it can change what happens next. The second is an owner. A stream that nobody owns can be mapped perfectly and still leak value at every handoff.
 
 The difference sounds small. In practice, it changes the question every team asks. In a function-based model, the question is “Did we do our part?” In a value stream, the question is “Did the value reach the customer, and what’s stopping it?”
 
@@ -87,7 +87,7 @@ When support hears inventory managers asking for alerts rather than forecasts, i
 
 A value stream isn’t done when something ships. Adopt & Use only ends when its value item exists: stockouts avoided routinely. That makes adoption, engagement, and retention the stream’s measures, for employees adopting new ways of working as much as for customers.
 
-Stocklight tracks two leading indicators: 70% of inventory managers acting on alerts in their first month, and 60% still acting in their third. Those numbers move before emergency orders fall, and long before renewals do, so the owner knows within weeks whether the initiative is working. When sales reps drift back to their old pitch, that’s the stream’s problem to solve, not another team's training ticket.
+Stocklight tracks two leading indicators for renewals: 70% of inventory managers acting on alerts in their first month, and 60% still acting in their third. Those numbers move before emergency orders fall, and long before renewals do, so the owner knows within weeks whether the initiative is working. When sales reps drift back to their old pitch, that’s the stream’s problem to solve, not another team's training ticket.
 
 **Value delivered:** distributors get the outcome they bought, not just access to the software.
 
@@ -119,7 +119,7 @@ Toyota has worked this way for decades. Its chief engineer has total responsibil
 
 What’s instructive is what the role doesn’t do. Most people on the team still report to managers in their own functional units, and the tension between the product leader and the functions becomes a source of innovation. End-to-end ownership didn’t require dismantling the functions. It required someone to own the whole.
 
-Amazon reached a similar answer in its own language. When it started its digital media business in 2004, it made its first decision: appoint an owner, a “single-threaded leader,” Amazon’s term for a leader who owns one major initiative and can focus on it relentlessly, free to drive the business without being held back by the rest of the company. ([Source](https://schlaff.com/wp/book/book-lp-2-ownership/))
+Amazon reached a similar answer in its own language. When it started its digital media business, it made its first decision: appoint an owner, a “single-threaded leader,” Amazon’s term for a leader who owns one major initiative and can focus on it relentlessly, free to drive the business without being held back by the rest of the company. (Colin Bryar and Bill Carr, *Working Backwards*, 2021)
 
 Different industries, different eras, same principle: an outcome needs an owner, and the owner needs a whole path to own it.
 
@@ -133,13 +133,17 @@ Ownership also changes how we handle failure. When one person owns an outcome, a
 
 State a value stream as clearly as a strategy. Here’s Stocklight’s:
 
-> *The **Customer Experience** value stream turns our intent to **help distributors avoid stockouts** into **fewer stockouts and confident inventory decisions** for **regional industrial distributors**, owned by **one accountable leader**, with **product, sales, installation, and support** contributing, measured by **emergency orders falling 30% within 60 days of go-live and renewal rate rising from 82% to 92% by Q4 2027**, and we will revisit it if **fewer than 70% of inventory managers act on our alerts in their first month**.*
+> *The **Customer Experience** value stream turns our intent to **help distributors avoid stockouts** into **fewer stockouts and confident inventory decisions** for **regional industrial distributors**, owned by **one accountable leader**, with **product, sales, installation, and support** contributing, measured by **emergency orders falling 30% within 60 days of go-live and renewal rate rising from 82% to 92% by Q4 2027**, and if **fewer than 70% of inventory managers act on our alerts in their first month**, **the stream owner** decides whether to persist, retune, re-resource, or stop.*
 
-And the template:
+**Template 4: the value stream statement.** And the template:
 
-> *The **[name]** value stream turns our intent to **[strategic intent]** into **[outcome]** for **[customers or stakeholders]**, owned by **[one accountable leader]**, with **[contributing capabilities]** contributing, measured by **[outcome measure and time frame]**, and we will revisit it if **[signal that we’re wrong]**.*
+> *The **[name]** value stream turns our intent to **[strategic intent]** into **[outcome]** for **[customers or stakeholders]**, owned by **[one accountable leader]**, with **[contributing capabilities]** contributing, measured by **[outcome measure and time frame]**, and if **[signal that we’re wrong, and by when]**, **[who decides]** decides whether to persist, retune, re-resource, or stop.*
+
+The last clause is the stream’s rejection condition: the signal, named in advance, that the approach is wrong, and who decides what happens next.
 
 If you can’t name one owner, you’ve found your first problem.
+
+In IIVCS, value streams are the spine that all three frameworks run on. The [glossary](https://github.com/Insheights/in-frameworks/blob/master/glossary.md) defines the value stream and its stages.
 
 ## Find your stream
 
@@ -162,5 +166,7 @@ If the answers are “a meeting,” “no,” “no,” “mostly waiting,” an
 The next article looks at why most strategies can’t be executed as written, and what it takes to write one that can.
 
 The framework behind this series is open on GitHub: [github.com/Insheights/in-frameworks](https://github.com/Insheights/in-frameworks)
+
+**Where does your organization stand?** The [Quick Self-Assessment](https://github.com/Insheights/in-frameworks/blob/master/quick-assessment.md) gives a directional reading in a few minutes: eight questions on how well strategy, teams, delivery and measurement work together.
 
 *Who owns the outcome of your most important initiative, and could they change the plan tomorrow?*

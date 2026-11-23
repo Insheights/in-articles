@@ -67,15 +67,15 @@ This is the strategy from the last article, rewritten well, and then translated 
 
 ## Stocklight, after
 
-The second time, the stream owner starts from what’s already written. Neither statement changes in this article.
+The second time, the stream owner starts from what’s already written: the strategy from the last article, and the value stream statement from the one before it. Neither changes in this article. In short:
 
-The strategy, from the last article:
+→ **The problem:** distributors don’t lack inventory data; they act on it too late
 
-> *Distributors don’t lack inventory data; they act on it too late. By 2028, we’ll grow revenue to $40M by delivering alerts inside the warehouse systems they already run, rather than building a new dashboard, and we’ll defer new regions until renewals reach 88%. We’re betting inventory managers will act on alerts there. We’ll test it with 10 distributors in Q1 2027 and revisit if fewer than 70% act in their first month.*
+→ **The choices:** alerts are delivered inside the warehouse systems distributors already run, not in a new dashboard, and new regions wait until renewals reach 88%
 
-The value stream, from the article before it:
+→ **The bet:** inventory managers will act on alerts there. If fewer than 70% do in their first month of the Q1 2027 test with 10 distributors, the stream owner decides whether to persist, retune, re-resource, or stop
 
-> *The **Customer Experience** value stream turns our intent to **help distributors avoid stockouts** into **fewer stockouts and confident inventory decisions** for **regional industrial distributors**, owned by **one accountable leader**, with **product, sales, installation, and support** contributing, measured by **emergency orders falling 30% within 60 days of go-live and renewal rate rising from 82% to 92% by Q4 2027**, and we will revisit it if **fewer than 70% of inventory managers act on our alerts in their first month**.*
+→ **The stream:** the Customer Experience value stream, with one accountable leader, measured by emergency orders falling 30% within 60 days of go-live and renewals rising from 82% to 92% by Q4 2027
 
 What’s new is only what happens below the stream owner. Instead of breaking these statements into functional assignments, the stream owner walks the outcome chain layer by layer and asks at each one: who could move this, and how fast would they know?
 
@@ -105,7 +105,7 @@ The forecasting module didn’t disappear. It stopped being an assignment and be
 
 ## What each team inherits
 
-Both teams carry the strategy’s boundaries: alerts are delivered inside the warehouse systems distributors already run, not in a new dashboard; expansion beyond current regions waits until the renewal rate reaches 88%; data platform work moves forward only where onboarding depends on it. Both carry the bet and its revisit signal: if fewer than 70% of inventory managers act on alerts in their first month during the Q1 2027 test with 10 distributors, the Adoption team brings that evidence to the stream owner before anything scales.
+Both teams carry the strategy’s boundaries: alerts are delivered inside the warehouse systems distributors already run, not in a new dashboard; expansion beyond current regions waits until the renewal rate reaches 88%; data platform work moves forward only where onboarding depends on it. Both carry the bet and its rejection condition: if fewer than 70% of inventory managers act on alerts in their first month during the Q1 2027 test with 10 distributors, the Adoption team brings that evidence to the stream owner before anything scales.
 
 ## What accountability means once a team owns an outcome
 
@@ -115,7 +115,7 @@ Handing a team an outcome changes what it’s accountable for. It’s no longer 
 
 **The evidence.** The team is accountable for knowing, early and honestly, whether its work is moving the number. A team that misses its target but shows by week six that the bet was wrong has done its job. A team that hits every delivery date while the number stays flat has not.
 
-**The escalation.** The team is accountable for raising its hand at the right moment: when the revisit signal fires, or when moving the outcome would mean crossing one of the strategy’s boundaries. An Adoption team that concludes distributors really do need a separate dashboard doesn’t build one quietly. It brings the evidence to the stream owner, because that choice belongs to the strategy.
+**The escalation.** The team is accountable for raising its hand at the right moment: when the rejection condition is met, or when moving the outcome would mean crossing one of the strategy’s boundaries. An Adoption team that concludes distributors really do need a separate dashboard doesn’t build one quietly. It brings the evidence to the stream owner, because that choice belongs to the strategy.
 
 The second point is the hardest. Earlier in the series, we saw how fear of failure keeps strategies from ever being labeled as failing; only execution fails. Team-level ownership only works if the same rule is reversed at every level. A bet disproved quickly is a result. If teams are punished for bad news, they’ll go back to owning outputs, because outputs are always safe to report.
 
@@ -145,7 +145,9 @@ Stocklight’s Activation team:
 
 > *The Activation team owns distributors reaching first value at the Connect & Configure and Onboard & Activate stages of the Customer Experience value stream, moving time from signed contract to first alert acted on from 90 days to 30 by Q4 2027, which feeds emergency orders falling 30% within 60 days of go-live. We’ll know within two weeks of each signing from days until trusted inventory data is live. We decide how installation and training are sequenced and which warehouse systems to connect first, within moving data platform work forward only where onboarding depends on it, and we’ll bring evidence to the Customer Experience stream owner if more than one in five new distributors needs a custom integration.*
 
-If you can’t fill in the “we decide” blank with something real, the team doesn’t own an outcome. It owns a task list with a number attached. All the templates, with Stocklight’s examples, are in the framework repo on GitHub.
+If you can’t fill in the “we decide” blank with something real, the team doesn’t own an outcome. It owns a task list with a number attached.
+
+In IIVCS, turning a strategy into outcomes that value streams and teams can own is the cascade in [Step 4 of the OSM practitioner guide](https://github.com/Insheights/in-frameworks/blob/master/guides/osm-practitioners-guide.md#step-4--map-priorities-to-value-streams-commit-resources-and-cascade). How those empowered teams are built and run is the [Product Transformation System (PTS)](https://github.com/Insheights/in-frameworks/blob/master/guides/pts-practitioners-guide.md).
 
 ## Test what your teams own
 
@@ -162,8 +164,10 @@ If the first answer is a deliverable, the team owns output. If the third answer 
 
 ## What comes next
 
-A strategy a stream can own, divided into outcomes teams can own, gives every level something real to be accountable for. It also raises a harder question: when a number moves, how do you know real value was created? The next article, Efficient, Experience, Effective: The Three Tests of Real Value, looks at the three tests every outcome has to pass: whether stakeholders can use what’s delivered with less effort, whether they feel the difference, and whether they achieve what they came for.
+A strategy a stream can own, divided into outcomes teams can own, gives every level something real to be accountable for. It also raises a harder question: when a number moves, how do you know real value was created? The next article, Efficiency, Experience, Effectiveness: The Three Tests of Real Value, looks at the three tests every outcome has to pass: whether stakeholders can use what’s delivered with less effort, whether they feel the difference, and whether they achieve what they came for.
 
 The framework behind this series is open on GitHub: [github.com/Insheights/in-frameworks](https://github.com/Insheights/in-frameworks)
+
+**Where does your organization stand?** The [Quick Self-Assessment](https://github.com/Insheights/in-frameworks/blob/master/quick-assessment.md) gives a directional reading in a few minutes: eight questions on how well strategy, teams, delivery and measurement work together.
 
 *Ask one of your teams what they own. Would they name an outcome, or a deliverable?*

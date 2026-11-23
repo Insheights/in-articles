@@ -19,11 +19,11 @@ It’s a convenient explanation, and not only because it’s sometimes true. A s
 
 Sometimes execution really is the problem. More often, nobody failed. The strategy lost value a little at a time, at every point where work passed from one group to another. No single loss was big enough to notice. Together, they were big enough to force major corrections, usually too late.
 
-In the first article of this series, I argued that product mindset has to be a capability of the whole company, not a single role. This article looks at what happens when it isn’t: where value leaks, and why effort alone doesn’t stop it.
+In the previous article in this series, I argued that product mindset has to be a capability of the whole company, not a single role. This article looks at what happens when it isn’t: where value leaks, and why effort alone doesn’t stop it.
 
 ## One intent, followed all the way
 
-Let’s go back to Stocklight, the illustrative company from the first article, before it changed how it thinks. Stocklight sells software that gives regional industrial distributors real-time visibility into their warehouse inventory.
+Let’s go back to Stocklight, the illustrative company from the previous article, before it changed how it thinks. Stocklight sells software that gives regional industrial distributors real-time visibility into their warehouse inventory.
 
 Leadership sees renewals slipping and hears one message from distributors: they lose orders when stock runs out. The executive team agrees on a clear intent: help distributors avoid stockouts.
 
@@ -53,7 +53,7 @@ Internally, the same pattern plays out inside Stocklight. Sales receives new mes
 
 Because nobody is measured on adoption, engagement, or retention, inside or outside the company, nobody notices for months. Distributors got access, but they didn’t get value. Employees got a new approach, but it didn’t change how they worked. This is the most expensive leak, because, by this point, all the cost has already been spent.
 
-Quibi, the short-form streaming service, is a well-known external example. It [raised $1.75 billion](https://www.nbcnews.com/news/all/quibi-shutting-down-just-months-after-launching-n1244215) before launching in 2020. In its first month, it reported 3.5 million downloads but only 1.3 million active users, and by one estimate, only about 8% of early trial users went on to pay. It shut down about six months after launch. Getting the app was never the problem. Too few people kept using it.
+Quibi, the short-form streaming service, is a well-known external example. It [raised $1.75 billion](https://www.nbcnews.com/news/all/quibi-shutting-down-just-months-after-launching-n1244215) before launching in 2020. A month after launch, the company [reported 3.5 million downloads but only 1.3 million active users](https://www.streamtvinsider.com/video/quibi-has-1-3m-active-users-one-month-after-launch). [Sensor Tower estimated](https://techcrunch.com/2020/07/08/report-says-quibi-lost-92-of-its-earliest-users-after-free-trials-expired/) that only about 8% of its first wave of free-trial users went on to pay, a figure Quibi disputed. It shut down about six months after launch. Getting the app was never the problem. Too few people kept using it.
 
 **The signal:** for your last few releases and your last major internal change, check how many people started using them, how many use them regularly, and how many are still using them three months later.
 
@@ -87,7 +87,7 @@ Wells Fargo’s cross-selling strategy is one of the best-known examples. The st
 
 Notice that every leak happens between teams, not within them. Every team at Stocklight did its job well. The leaks live in the spaces between functions, and nobody owns those spaces.
 
-That’s why the usual fixes disappoint. More alignment meetings share information, but still leave nobody owning the outcome. Better goal-setting helps only if goals cross functions. When each function writes its own, fragmentation just becomes official. A heroic product manager can chase the outcome across every boundary for a while, but that’s the role trap from the first article, and it burns people out. A new tool can speed up handoffs, but it doesn’t remove them or decide who owns the result.
+That’s why the usual fixes disappoint. More alignment meetings share information, but still leave nobody owning the outcome. Better goal-setting helps only if goals cross functions. When each function writes its own, fragmentation just becomes official. A heroic product manager can chase the outcome across every boundary for a while, but that’s the role trap from the previous article, and it burns people out. A new tool can speed up handoffs, but it doesn’t remove them or decide who owns the result.
 
 Each fix adds effort. None changes ownership. That’s because people don’t cause the leaks. The operating model causes them: how the organization turns intent into work, divides that work, measures it, and moves information through it. Look back at the four leaks, and each one traces to part of it. Feedback leaks through how information moves. Adoption, engagement, and retention leak through what gets measured. Fragmentation and handoffs come from how work is divided. Translation happens in how intent is turned into work. An operating model organized around functions works well inside each function. The leaks appear in the spaces between them, which it was never designed to manage.
 
@@ -127,6 +127,10 @@ You’ll likely find the leaks. Not inside any one team’s work, but between th
 
 *Try the exercise on one initiative. Which leak did you find first?*
 
+In IIVCS, each leak has a counterpart. The [Feedback System](https://github.com/Insheights/in-frameworks/blob/master/feedback.md) carries customer signal back to the people setting strategy. [Adoption, Engagement, Retention (AER)](https://github.com/Insheights/in-frameworks/blob/master/aer.md) measures whether people take up what is delivered, inside the company and outside it. Value streams give one owner the whole outcome. And the Organization Strategy Model (OSM) keeps the intent attached as strategy becomes work.
+
 The framework behind this series is open on GitHub: [github.com/Insheights/in-frameworks](https://github.com/Insheights/in-frameworks)
+
+**Where does your organization stand?** The [Quick Self-Assessment](https://github.com/Insheights/in-frameworks/blob/master/quick-assessment.md) gives a directional reading in a few minutes: eight questions on how well strategy, teams, delivery and measurement work together.
 
 Next in the series: Managing the flow of value from strategy to customer as one continuous stream, owned end to end.
