@@ -27,7 +27,7 @@ A value stream isn't a department, and it isn't a process. A department is defin
 
 A value stream also outlasts the initiatives that run through it. Initiatives come and go. The stream is the stable path they travel.
 
-IIVCS adds two things to that definition. First, a return path: evidence of what the stakeholder actually experienced travels back along the stream, so it can change what happens next. The second is an owner. A stream that nobody owns can be mapped perfectly and still leak value at every handoff.
+The Insheights Integrated Value Creation System (IIVCS) adds two things to that definition. First, a return path: evidence of what the stakeholder actually experienced travels back along the stream, so it can change what happens next. The second is an owner. A stream that nobody owns can be mapped perfectly and still leak value at every handoff.
 
 The difference sounds small. In practice, it changes the question every team asks. In a function-based model, the question is “Did we do our part?” In a value stream, the question is “Did the value reach the customer, and what’s stopping it?”
 

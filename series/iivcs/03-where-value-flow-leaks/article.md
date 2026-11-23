@@ -127,7 +127,7 @@ You’ll likely find the leaks. Not inside any one team’s work, but between th
 
 *Try the exercise on one initiative. Which leak did you find first?*
 
-In IIVCS, each leak has a counterpart. The [Feedback System](https://github.com/Insheights/in-frameworks/blob/master/feedback.md) carries customer signal back to the people setting strategy. [Adoption, Engagement, Retention (AER)](https://github.com/Insheights/in-frameworks/blob/master/aer.md) measures whether people take up what is delivered, inside the company and outside it. Value streams give one owner the whole outcome. And the Organization Strategy Model (OSM) keeps the intent attached as strategy becomes work.
+In the Insheights Integrated Value Creation System (IIVCS), each leak has a counterpart. The [Feedback System](https://github.com/Insheights/in-frameworks/blob/master/feedback.md) carries customer signal back to the people setting strategy. [Adoption, Engagement, Retention (AER)](https://github.com/Insheights/in-frameworks/blob/master/aer.md) measures whether people take up what is delivered, inside the company and outside it. Value streams give one owner the whole outcome. And the Organization Strategy Model (OSM) keeps the intent attached as strategy becomes work.
 
 The framework behind this series is open on GitHub: [github.com/Insheights/in-frameworks](https://github.com/Insheights/in-frameworks)
 

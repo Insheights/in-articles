@@ -147,7 +147,7 @@ Stocklight’s Activation team:
 
 If you can’t fill in the “we decide” blank with something real, the team doesn’t own an outcome. It owns a task list with a number attached.
 
-In IIVCS, turning a strategy into outcomes that value streams and teams can own is the cascade in [Step 4 of the OSM practitioner guide](https://github.com/Insheights/in-frameworks/blob/master/guides/osm-practitioners-guide.md#step-4--map-priorities-to-value-streams-commit-resources-and-cascade). How those empowered teams are built and run is the [Product Transformation System (PTS)](https://github.com/Insheights/in-frameworks/blob/master/guides/pts-practitioners-guide.md).
+In the Insheights Integrated Value Creation System (IIVCS), turning a strategy into outcomes that value streams and teams can own is the cascade in [Step 4 of the Organization Strategy Model (OSM) practitioner guide](https://github.com/Insheights/in-frameworks/blob/master/guides/osm-practitioners-guide.md#step-4--map-priorities-to-value-streams-commit-resources-and-cascade). How those empowered teams are built and run is the [Product Transformation System (PTS)](https://github.com/Insheights/in-frameworks/blob/master/guides/pts-practitioners-guide.md).
 
 ## Test what your teams own
 

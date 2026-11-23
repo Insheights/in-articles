@@ -157,7 +157,7 @@ I’m starting with mindset on purpose. Every operating model, transformation ap
 
 A mindset alone isn’t enough, though. It needs a structure to work inside. Mindset without structure becomes a slogan, and structure without mindset becomes a reorg. The rest of this series is about building both.
 
-In IIVCS, Product Mindset is the operating philosophy: the framework's [README](https://github.com/Insheights/in-frameworks) sets out the five principles and shows how each one works in OSM, PTS and CVDM.
+In the Insheights Integrated Value Creation System (IIVCS), Product Mindset is the operating philosophy: the system's [README](https://github.com/Insheights/in-frameworks) sets out the five principles and shows how each one works in the Organization Strategy Model (OSM), the Product Transformation System (PTS) and the Customer Value Delivery Model (CVDM).
 
 The framework behind this series is open on GitHub: [github.com/Insheights/in-frameworks](https://github.com/Insheights/in-frameworks)
 
