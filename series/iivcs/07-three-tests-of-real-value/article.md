@@ -51,7 +51,7 @@ Stocklight, the illustrative company we’ve followed through this series, sells
 
 Three months into that test, the Customer Experience stream owner’s review looked good:
 
-> ***The bet:*** *78% of inventory managers acted on an alert in their first month, against a rejection condition of 70%*
+> ***The bet:*** *78% of inventory managers acted on an alert in their first month, against a rejection condition of fewer than 70%*
 
 > ***Adoption team:*** *emergency orders down 24% at day 45, on track for 30% by day 60*
 

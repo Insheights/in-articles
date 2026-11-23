@@ -160,7 +160,7 @@ Taken together, the lesson is consistent. Strategies fail in execution because t
 
 Earlier in the series, we treated strategy as a set of bets. The templates below make that literal. You can write it two ways, depending on how you’re building the strategy.
 
-**Template 5: the strategy as a bet.** This extends template 1 from earlier in the series. It keeps where you’ll play and how you’ll win, the choices A.G. Lafley and Roger Martin set out in *Playing to Win* (2013), and the objective, and adds the three elements most strategies leave out: the diagnosis, the choices, and the bet with its test. Use it with templates 2 to 4.
+**Template 5: the strategy as a bet.** This extends template 1 from earlier in the series. It keeps where you’ll play and how you’ll win, the choices A.G. Lafley and Roger Martin set out in *Playing to Win* (2013), and the objective, and adds the three elements most strategies leave out: the diagnosis, the trade-offs (what you’re declining and what you’re deferring), and the bet with its test. Use it with templates 2 to 4.
 
 > ***[Target customers]** can’t **[achieve a specific result]** today because **[diagnosis]**. By **[time horizon]**, we will **[specific, measurable objective]** by serving **[target customers/segments]** in **[markets, geographies, channels]** with **[offering]**, choosing **[choice]** rather than **[alternative we’re declining]**, and deferring **[what we’re not doing yet]** until **[condition]**. We’re betting that **[source of advantage competitors can’t easily match]** will win, we’ll test it by **[test and date]**, and if **[signal that we’re wrong, and by when]**, **[who decides]** decides whether to persist, retune, re-resource, or stop.*
 
