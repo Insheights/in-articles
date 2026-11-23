@@ -2,7 +2,7 @@
 title: ""
 subtitle: ""
 series: ~              # iivcs | agentic-engineering | ~ for a standalone article
-number: ~              # reading order within the series
+number: ~              # order of publication within the series
 status: draft          # draft | in-review | approved | published
 published: ~           # YYYY-MM-DD, set when published
 medium_url: ~          # set when published on Medium
