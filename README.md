@@ -1,6 +1,6 @@
 # Insheights Articles
 
-**IIVCS Series | Agentic Engineering Series | Standalone Articles**
+**Insheights Integrated Value Creation System (IIVCS) Series | Agentic Engineering Series | Standalone Articles**
 
 Articles by Insheights LLC on how organizations define, build, and deliver value.
 
@@ -13,7 +13,7 @@ This repository is the source of each article — its text, its images, and wher
 
 ## IIVCS Series
 
-How value flows from strategy to customer, and where it leaks on the way, told through the [Insheights Integrated Value Creation System (IIVCS)](https://github.com/Insheights/in-frameworks). The frameworks it draws on are open on GitHub. The series groups its articles into parts in its [index](series/iivcs/README.md).
+How value flows from strategy to customer, and where it leaks on the way, told through the IIVCS, whose frameworks are open at [Insheights/in-frameworks](https://github.com/Insheights/in-frameworks). The series groups its articles into parts in its [index](series/iivcs/README.md).
 
 | No. | Article | Published |
 |---|---|---|
@@ -58,7 +58,7 @@ No articles yet. See the [series index](series/agentic-engineering/README.md).
 **Templates**
 - [Article template](templates/article.md) — the starting point for a new article
 
-**Front matter** — every `article.md` begins with `title`, `subtitle`, `series`, `number`, `status` (`draft`, `in-review`, `approved` or `published`), `published`, `medium_url` and `canonical`.
+**Front matter** — every `article.md` begins with the fields in the [article template](templates/article.md).
 
 ---
 
