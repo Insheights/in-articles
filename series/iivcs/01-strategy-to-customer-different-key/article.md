@@ -33,13 +33,13 @@ It has three frameworks:
 
 **PTS — Product Transformation System.** How the organization structures itself to deliver. PTS defines four Product Operating Model enablers — Leadership, Practices and Behaviors, Organizational Architecture, Culture and Relationships — that empower persistent cross-functional teams working through continuous, overlapping phases: Discover, Define, Develop, Deliver, Launch, Support.
 
-**CVDM — Customer Value Delivery Model.** How value actually reaches the customer. CVDM ensures every step in the customer journey triggers the right value stream stage, defining the products, capabilities, processes, and information flows required to turn a value proposition into a realized outcome.
+**CVDM — Customer Value Delivery Model.** How value actually reaches the customer. CVDM ensures every step in the customer journey triggers the right value stage, defining the products, capabilities, processes, and information flows required to turn a value proposition into a realized outcome.
 
 ## Value streams are the spine
 
-The three frameworks are held together by something the organization already has: its value streams. The pre-existing workflows and capabilities through which value is created and delivered.
+The three frameworks are held together by something the organization already has: its value streams, the chains of value stages through which it delivers the outcomes its stakeholders value.
 
-OSM governs them. PTS operationalizes them. CVDM realizes value through them.
+All three frameworks run on them. OSM governs them. PTS organizes teams around them. CVDM realizes value through them.
 
 That’s the sentence worth carrying out of this post. It’s also why IIVCS doesn’t require an organization to reorganize before it can start. The spine is already in the building.
 
@@ -57,22 +57,16 @@ In IIVCS, the important direction is the other one. CVDM to PTS to OSM. Customer
 
 ## And it’s measured
 
-This is where most integrated frameworks quietly stop. IIVCS carries a full measurement architecture:
+Integration is only worth claiming if you can see whether it works. So IIVCS carries a full measurement architecture:
 
-- **3E** — Efficiency, Experience, Effectiveness, sequenced as Use → Feel → Achieve. The system's measurement language, applied consistently across every architecture element.
+- **3E** — Efficiency, Experience, Effectiveness, sequenced as Use → Feel → Achieve. The first layer of the system's measurement language, 3E → AER → 8 Values, applied consistently across every architecture element.
 - **AER** — Adoption, Engagement, Retention. The behavioral signal layer, running two parallel tracks: how customers respond to value delivery, and how teams respond to the operating model.
 - **8 Values** — Customer, Financial, People, Operational, Market, Strategic, Innovation, Impact. What the organization actually generates, with a bridge to the IR 6 Capitals for external reporting.
 
 ## The system is public
 
-The full IIVCS is published as a GitHub repository. Not a landing page with a gated PDF behind it. The actual documents:
-
-- The core framework definitions for OSM, PTS, and CVDM, with diagrams
-- Framework Positioning — the canonical reference for how the three relate
-- The 3E, AER, and 8 Values measurement models, plus practitioner guides
-- The IIVCS Feedback System
-- Comparisons against TOGAF, BIZBOK, ArchiMate, SAFe, Service Blueprint, Value Stream Mapping, JTBD, ISO 9241–11, Balanced Scorecard, Google HEART, AARRR, ADKAR, Kotter, McKinsey 7-S, IIRC 6 Capitals, EFQM, ESG/GRI, and OKRs
-- Integration guidance for SAFe, Scrum, OKRs, ITIL, ERM, Design Thinking, VSM, and JTBD
-- A glossary and a roadmap
+The full IIVCS is published as a GitHub repository. Not a landing page with a gated PDF behind it. The actual documents: the framework definitions for OSM, PTS, and CVDM with their diagrams, the 3E, AER, and 8 Values measurement models, practitioner guides, comparisons with established frameworks, integration guidance, and a glossary. The current list is in the repo's [Documents in This System](https://github.com/Insheights/in-frameworks#documents-in-this-system).
 
 **Read it here:** [**github.com/Insheights/in-frameworks**](https://github.com/Insheights/in-frameworks)
+
+**Where does your organization stand?** The [Quick Self-Assessment](https://github.com/Insheights/in-frameworks/blob/master/quick-assessment.md) gives a directional reading in a few minutes: eight questions on how well strategy, teams, delivery and measurement work together.
