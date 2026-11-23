@@ -75,7 +75,7 @@ The strategy, from the last article:
 
 The value stream, from the article before it:
 
-> *The* ***Customer Experience*** *value stream turns our intent to* ***help distributors avoid stockouts*** *into* ***fewer stockouts and confident inventory decisions*** *for* ***regional industrial distributors****, owned by* ***one accountable leader****, with* ***product, sales, installation, and support*** *contributing, measured by* ***emergency orders falling 30% within 60 days of go-live and renewal rate rising from 82% to 92% by Q4 2027****, and we will revisit it if* ***fewer than 70% of inventory managers act on our alerts in their first month****.*
+> *The **Customer Experience** value stream turns our intent to **help distributors avoid stockouts** into **fewer stockouts and confident inventory decisions** for **regional industrial distributors**, owned by **one accountable leader**, with **product, sales, installation, and support** contributing, measured by **emergency orders falling 30% within 60 days of go-live and renewal rate rising from 82% to 92% by Q4 2027**, and we will revisit it if **fewer than 70% of inventory managers act on our alerts in their first month**.*
 
 What’s new is only what happens below the stream owner. Instead of breaking these statements into functional assignments, the stream owner walks the outcome chain layer by layer and asks at each one: who could move this, and how fast would they know?
 
@@ -135,7 +135,7 @@ Practitioners from product management, software delivery, and military command h
 
 **Template 6: the team outcome brief.** This sits under the value stream statement from earlier in the series. Where the value stream statement names one accountable leader for the whole path, the team outcome brief names the link of the chain a team takes on, and the room it has to move it.
 
-> *The* ***[team]*** *owns* ***[change in what a stakeholder does or experiences]*** *at the* ***[value stage]*** *stage of the* ***[name]*** *value stream, moving* ***[measure]*** *from* ***[baseline]*** *to* ***[target]*** *by* ***[date]****, which feeds* ***[the next outcome up the chain]****. We’ll know within* ***[weeks]*** *from* ***[leading indicator]****. We decide* ***[solution choices the team makes]****, within* ***[choices and deferrals inherited from the strategy]****, and we’ll bring evidence to* ***[stream owner]*** *if* ***[signal that we’re wrong, or a boundary we’d need to cross]****.*
+> *The **[team]** owns **[change in what a stakeholder does or experiences]** at the **[value stage]** stage of the **[name]** value stream, moving **[measure]** from **[baseline]** to **[target]** by **[date]**, which feeds **[the next outcome up the chain]**. We’ll know within **[weeks]** from **[leading indicator]**. We decide **[solution choices the team makes]**, within **[choices and deferrals inherited from the strategy]**, and we’ll bring evidence to **[stream owner]** if **[signal that we’re wrong, or a boundary we’d need to cross]**.*
 
 Stocklight’s Adoption team:
 

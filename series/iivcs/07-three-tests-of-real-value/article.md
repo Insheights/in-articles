@@ -113,7 +113,7 @@ The common lesson: a moved outcome tells you something changed. The stakeholder 
 
 **Template 7: the 3E outcome profile.** This sits beside the team outcome brief from the last article. The brief names the outcome a team owns. The profile names the three tests that outcome has to pass.
 
-> *For* ***[outcome]*** *at the* ***[value stage]*** *stage,* ***[stakeholder]*** *can use it if* ***[effort, time, or cost signal]*** *stays below* ***[threshold]****; they feel it if* ***[trust or confidence signal]*** *reaches* ***[threshold]****; and they achieve it if* ***[outcome measure]*** *moves from* ***[baseline]*** *to* ***[target]*** *by* ***[date]*** *without* ***[the workaround that would fake it]****. We read Use every* ***[cadence]****, Feel every* ***[cadence]****, and Achieve every* ***[cadence]****, in that order.*
+> *For **[outcome]** at the **[value stage]** stage, **[stakeholder]** can use it if **[effort, time, or cost signal]** stays below **[threshold]**; they feel it if **[trust or confidence signal]** reaches **[threshold]**; and they achieve it if **[outcome measure]** moves from **[baseline]** to **[target]** by **[date]** without **[the workaround that would fake it]**. We read Use every **[cadence]**, Feel every **[cadence]**, and Achieve every **[cadence]**, in that order.*
 
 Stocklight’s Adoption team:
 

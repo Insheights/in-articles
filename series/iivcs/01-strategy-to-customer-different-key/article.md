@@ -1,7 +1,6 @@
 ---
 title: "Everything between strategy and customer plays in a different key."
-subtitle: "The people who write the score never hear it played. 
-Introducing the Insheights Integrated Value Creation System."
+subtitle: "The people who write the score never hear it played. Introducing the Insheights Integrated Value Creation System."
 series: iivcs
 part: 1
 status: published

@@ -8,7 +8,7 @@ Read in order:
 2. [Product Mindset Is How the Whole Company Should Think](02-product-mindset/article.md)
 3. [Where Value Flow Leaks in Your Operating Model](03-where-value-flow-leaks/article.md)
 4. [Managing the Flow of Value from Strategy to Customer as One Continuous Stream, Owned End to End](04-one-continuous-value-stream/article.md)
-5. [Why Most Strategies Can't Be Executed as Written, and What It Takes to Write One That Can](05-strategies-that-can-be-executed/article.md)
+5. [Why Most Strategies Can’t Be Executed as Written, and What It Takes to Write One That Can](05-strategies-that-can-be-executed/article.md)
 6. [From Strategic Intent to Outcomes an Empowered Team Can Own](06-outcomes-a-team-can-own/article.md)
 7. [Efficiency, Experience, Effectiveness: The Three Tests of Real Value](07-three-tests-of-real-value/article.md)
 

@@ -22,7 +22,7 @@ If `../in-scope` is not present, keep to edits the owner asked for in that sessi
 
 ## Writing rules
 
-- **Published means as published.** An article with `status: published` matches its published copy. A correction is made here and on the published copy together.
+- **Published means as published.** An article with `status: published` matches its published copy. A correction is reviewed in `in-scope` like a new article, and the owner decides; it is then made here and on the published copy together.
 - **IIVCS terms follow `in-frameworks`.** Use each term exactly as in its `glossary.md`, and link to the framework rather than restating it.
 - **Front matter is complete.** Every `article.md` carries the fields in `templates/article.md`.
 - **Images live beside the article,** in its `images/` folder, referenced by relative path.

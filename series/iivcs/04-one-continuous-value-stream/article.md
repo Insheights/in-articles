@@ -133,11 +133,11 @@ Ownership also changes how we handle failure. When one person owns an outcome, a
 
 State a value stream as clearly as a strategy. Here’s Stocklight’s:
 
-> *The* ***Customer Experience*** *value stream turns our intent to* ***help distributors avoid stockouts*** *into* ***fewer stockouts and confident inventory decisions*** *for* ***regional industrial distributors****, owned by* ***one accountable leader****, with* ***product, sales, installation, and support*** *contributing, measured by* ***emergency orders falling 30% within 60 days of go-live and renewal rate rising from 82% to 92% by Q4 2027****, and we will revisit it if* ***fewer than 70% of inventory managers act on our alerts in their first month****.*
+> *The **Customer Experience** value stream turns our intent to **help distributors avoid stockouts** into **fewer stockouts and confident inventory decisions** for **regional industrial distributors**, owned by **one accountable leader**, with **product, sales, installation, and support** contributing, measured by **emergency orders falling 30% within 60 days of go-live and renewal rate rising from 82% to 92% by Q4 2027**, and we will revisit it if **fewer than 70% of inventory managers act on our alerts in their first month**.*
 
 And the template:
 
-> *The* ***[name]*** *value stream turns our intent to* ***[strategic intent]*** *into* ***[outcome]*** *for* ***[customers or stakeholders]****, owned by* ***[one accountable leader]****, with* ***[contributing capabilities]*** *contributing, measured by* ***[outcome measure and time frame]****, and we will revisit it if* ***[signal that we’re wrong]****.*
+> *The **[name]** value stream turns our intent to **[strategic intent]** into **[outcome]** for **[customers or stakeholders]**, owned by **[one accountable leader]**, with **[contributing capabilities]** contributing, measured by **[outcome measure and time frame]**, and we will revisit it if **[signal that we’re wrong]**.*
 
 If you can’t name one owner, you’ve found your first problem.
 
