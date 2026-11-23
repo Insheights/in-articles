@@ -2,7 +2,7 @@
 title: "Your Enterprise AI is paced by processes no one revisits."
 subtitle: ""
 series: ~
-part: ~
+number: ~
 status: published
 published: 2026-09-05
 medium_url: https://medium.com/@xambrose/your-enterprise-ai-is-paced-by-processes-no-one-revisits-3926da0e1fcd

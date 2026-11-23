@@ -2,7 +2,7 @@
 title: "Efficiency, Experience, Effectiveness: The Three Tests of Real Value"
 subtitle: "An outcome measured one way can move without creating value. Three tests tell the difference."
 series: iivcs
-part: 7
+number: 7
 status: published
 published: 2026-11-04
 medium_url: https://medium.com/@xambrose/efficiency-experience-effectiveness-the-three-tests-of-real-value-d60780d197eb

@@ -2,7 +2,7 @@
 title: "Managing the Flow of Value from Strategy to Customer as One Continuous Stream, Owned End to End"
 subtitle: "Leaks between strategy and the customer close only when someone owns the entire path."
 series: iivcs
-part: 4
+number: 4
 status: published
 published: 2026-10-14
 medium_url: https://medium.com/@xambrose/managing-the-flow-of-value-from-strategy-to-customer-as-one-continuous-stream-owned-end-to-end-85a2092e0185

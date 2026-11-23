@@ -6,9 +6,9 @@ The source of Insheights articles: each article's text, its images and where it 
 
 ### [IIVCS](series/iivcs/README.md)
 
-How value flows from strategy to customer, told through the Insheights Integrated Value Creation System (IIVCS). The frameworks themselves are open at [Insheights/in-frameworks](https://github.com/Insheights/in-frameworks). What's planned is in [the series roadmap](series/iivcs/ROADMAP.md).
+How value flows from strategy to customer, told through the Insheights Integrated Value Creation System (IIVCS). The frameworks themselves are open at [Insheights/in-frameworks](https://github.com/Insheights/in-frameworks).
 
-| Part | Article | Published |
+| No. | Article | Published |
 |---|---|---|
 | 1 | [Everything between strategy and customer plays in a different key.](series/iivcs/01-strategy-to-customer-different-key/article.md) | 2026-09-09 |
 | 2 | [Product Mindset Is How the Whole Company Should Think](series/iivcs/02-product-mindset/article.md) | 2026-09-28 |
@@ -20,7 +20,7 @@ How value flows from strategy to customer, told through the Insheights Integrate
 
 ### [Agentic Engineering](series/agentic-engineering/README.md)
 
-No articles yet. What's planned is in [the series roadmap](series/agentic-engineering/ROADMAP.md).
+No articles yet.
 
 ## Standalone
 
@@ -31,11 +31,11 @@ No articles yet. What's planned is in [the series roadmap](series/agentic-engine
 
 ## How this repo is laid out
 
-- `series/<series>/NN-<slug>/`: one folder per article, numbered in reading order. Each series has a `README.md` and a `ROADMAP.md`.
+- `series/<series>/NN-<slug>/`: one folder per article, numbered in the order published. A series may group its articles into parts, listed in its `README.md`.
 - `standalone/<date>-<slug>/`: articles that belong to no series.
 - Each article folder holds `article.md` and its `images/`, and a `linkedin.md` once it has companion LinkedIn posts.
 - `templates/article.md`: the starting point for a new article.
 
-Each `article.md` begins with front matter: `title`, `subtitle`, `series`, `part`, `status` (`draft`, `in-review`, `approved` or `published`), `published`, `medium_url` and `canonical`.
+Each `article.md` begins with front matter: `title`, `subtitle`, `series`, `number`, `status` (`draft`, `in-review`, `approved` or `published`), `published`, `medium_url` and `canonical`.
 
 Articles already published are kept as they appeared. A correction is reviewed like a new article, then made here and on the published copy together.
