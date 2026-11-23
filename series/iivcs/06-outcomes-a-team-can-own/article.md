@@ -2,7 +2,7 @@
 title: "From Strategic Intent to Outcomes an Empowered Team Can Own"
 subtitle: "A team can be accountable only for outcomes it can measure, steer, and move."
 series: iivcs
-part: 6
+number: 6
 status: published
 published: 2026-10-31
 medium_url: https://medium.com/@xambrose/from-strategic-intent-to-outcomes-an-empowered-team-can-own-ed9de1b57019

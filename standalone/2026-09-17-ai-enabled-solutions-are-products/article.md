@@ -2,7 +2,7 @@
 title: "AI-enabled solutions are products"
 subtitle: "Harnessing change is a product’s job, and nothing else can do it"
 series: ~
-part: ~
+number: ~
 status: published
 published: 2026-09-17
 medium_url: https://medium.com/@xambrose/ai-enabled-solutions-are-products-abc1c0795d61

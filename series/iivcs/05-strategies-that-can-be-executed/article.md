@@ -2,7 +2,7 @@
 title: "Why Most Strategies Can’t Be Executed as Written, and What It Takes to Write One That Can"
 subtitle: "A strategy fails long before execution starts if nobody can tell, from the page, what to do differently on Monday."
 series: iivcs
-part: 5
+number: 5
 status: published
 published: 2026-10-21
 medium_url: https://medium.com/@xambrose/why-most-strategies-cant-be-executed-as-written-and-what-it-takes-to-write-one-that-can-f22ec04976bc

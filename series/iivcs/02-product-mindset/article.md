@@ -2,7 +2,7 @@
 title: "Product Mindset Is How the Whole Company Should Think"
 subtitle: "Five principles that change how strategy is formed, how transformation happens, and how value reaches customers."
 series: iivcs
-part: 2
+number: 2
 status: published
 published: 2026-09-28
 medium_url: https://medium.com/@xambrose/product-mindset-is-how-the-whole-company-should-think-a9f562af0c70

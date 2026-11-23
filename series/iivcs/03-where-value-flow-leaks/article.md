@@ -2,7 +2,7 @@
 title: "Where Value Flow Leaks in Your Operating Model"
 subtitle: "How a good strategy loses value on its way to customers, and why good intentions can’t stop it."
 series: iivcs
-part: 3
+number: 3
 status: published
 published: 2026-10-06
 medium_url: https://medium.com/@xambrose/where-value-flow-leaks-in-your-operating-model-5b883a31e691

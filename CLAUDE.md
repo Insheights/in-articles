@@ -6,7 +6,7 @@ The source of Insheights articles: the IIVCS and Agentic Engineering series, and
 
 Everything committed here, on any branch and including this file, is readable by anyone.
 
-- No client or prospect names, no internal strategy, no pricing, no unreleased plans beyond a series roadmap, no local paths or account details.
+- No client or prospect names, no internal strategy, no pricing, no unreleased plans (a series lists only what is published), no local paths or account details.
 - No review notes or panel records. Those are kept privately, not here.
 - Nothing may imply that Knowledge Pier is a shipping or proven product.
 

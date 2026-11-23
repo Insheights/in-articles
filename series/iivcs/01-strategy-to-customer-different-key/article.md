@@ -2,7 +2,7 @@
 title: "Everything between strategy and customer plays in a different key."
 subtitle: "The people who write the score never hear it played. Introducing the Insheights Integrated Value Creation System."
 series: iivcs
-part: 1
+number: 1
 status: published
 published: 2026-09-09
 medium_url: https://medium.com/@xambrose/everything-between-strategy-and-customer-plays-in-a-different-key-b4cd03e328f5
