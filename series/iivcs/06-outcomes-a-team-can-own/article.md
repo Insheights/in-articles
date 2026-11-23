@@ -147,7 +147,7 @@ Stocklight’s Activation team:
 
 If you can’t fill in the “we decide” blank with something real, the team doesn’t own an outcome. It owns a task list with a number attached.
 
-In IIVCS, turning a strategy into outcomes that value streams and teams can own is the cascade in [Step 4 of the OSM practitioner guide](https://github.com/Insheights/in-frameworks/blob/master/guides/osm-practitioners-guide.md#step-4--map-priorities-to-value-streams-commit-resources-and-cascade). How those empowered teams are built and run is the [Product Transformation System (PTS)](https://github.com/Insheights/in-frameworks/blob/master/guides/pts-practitioners-guide.md).
+In the Insheights Integrated Value Creation System (IIVCS), turning a strategy into outcomes that value streams and teams can own is the cascade in [Step 4 of the Organization Strategy Model (OSM) practitioner guide](https://github.com/Insheights/in-frameworks/blob/master/guides/osm-practitioners-guide.md#step-4--map-priorities-to-value-streams-commit-resources-and-cascade). How those empowered teams are built and run is the [Product Transformation System (PTS)](https://github.com/Insheights/in-frameworks/blob/master/guides/pts-practitioners-guide.md).
 
 ## Test what your teams own
 
@@ -166,7 +166,7 @@ If the first answer is a deliverable, the team owns output. If the third answer 
 
 A strategy a stream can own, divided into outcomes teams can own, gives every level something real to be accountable for. It also raises a harder question: when a number moves, how do you know real value was created? The next article, Efficiency, Experience, Effectiveness: The Three Tests of Real Value, looks at the three tests every outcome has to pass: whether stakeholders can use what’s delivered with less effort, whether they feel the difference, and whether they achieve what they came for.
 
-The framework behind this series is open on GitHub: [github.com/Insheights/in-frameworks](https://github.com/Insheights/in-frameworks)
+The frameworks behind this series are open on GitHub: [github.com/Insheights/in-frameworks](https://github.com/Insheights/in-frameworks)
 
 **Where does your organization stand?** The [Quick Self-Assessment](https://github.com/Insheights/in-frameworks/blob/master/quick-assessment.md) gives a directional reading in a few minutes: eight questions on how well strategy, teams, delivery and measurement work together.
 

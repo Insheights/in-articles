@@ -172,7 +172,7 @@ Stocklight’s one-page version:
 
 > *Regional industrial distributors can’t avoid stockouts today because their inventory managers see demand changes too late to act, and onboarding takes 90 days. By Q4 2027, we will deliver alerts inside the warehouse systems they already run rather than building a new dashboard, and move from onboarding through separate sales, installation, and support teams to onboarding each distributor through a single customer success team. We’ll know it’s working when onboarding falls from 90 days to 30 and emergency orders fall 30% within 60 days of go-live, leading to renewals rising from 82% to 92% by Q4 2027 and revenue from distributors reaching $40M by 2028. We will defer expansion beyond our current regions until the renewal rate reaches 88%. We’re betting inventory managers will act on alerts in the warehouse systems they already run, and if fewer than 70% act on our alerts in their first month, the stream owner decides whether to persist, retune, re-resource, or stop. One accountable leader owns it through the Customer Experience value stream.*
 
-Whichever you use, if you can’t fill in the “rather than” or the “defer” blanks, you haven’t made a choice yet. In IIVCS, this is the work of the Organization Strategy Model (OSM). Its [practitioner guide](https://github.com/Insheights/in-frameworks/blob/master/guides/osm-practitioners-guide.md) covers the [One-Page Strategy](https://github.com/Insheights/in-frameworks/blob/master/guides/osm-practitioners-guide.md#step-2--make-the-strategic-choices) and the [Priority Register](https://github.com/Insheights/in-frameworks/blob/master/guides/osm-practitioners-guide.md#step-3--set-and-rank-strategic-value-priorities), where each bet is recorded with its rejection condition.
+Whichever you use, if you can’t fill in the “rather than” or the “defer” blanks, you haven’t made a choice yet. In the Insheights Integrated Value Creation System (IIVCS), this is the work of the Organization Strategy Model (OSM). Its [practitioner guide](https://github.com/Insheights/in-frameworks/blob/master/guides/osm-practitioners-guide.md) covers the [One-Page Strategy](https://github.com/Insheights/in-frameworks/blob/master/guides/osm-practitioners-guide.md#step-2--make-the-strategic-choices) and the [Priority Register](https://github.com/Insheights/in-frameworks/blob/master/guides/osm-practitioners-guide.md#step-3--set-and-rank-strategic-value-priorities), where each bet is recorded with its rejection condition.
 
 ## Test your current strategy
 
@@ -190,7 +190,7 @@ Then give the strategy to a team lead and ask them to make one real trade-off us
 
 A strategy written this way gives a value stream something to own: a problem, an outcome chain, a set of choices, and bets with attached signals. The next article, From Strategic Intent to Outcomes an Empowered Team Can Own, shows how that intent becomes work a team can actually be accountable for.
 
-The framework behind this series is open on GitHub: [github.com/Insheights/in-frameworks](https://github.com/Insheights/in-frameworks)
+The frameworks behind this series are open on GitHub: [github.com/Insheights/in-frameworks](https://github.com/Insheights/in-frameworks)
 
 **Where does your organization stand?** The [Quick Self-Assessment](https://github.com/Insheights/in-frameworks/blob/master/quick-assessment.md) gives a directional reading in a few minutes: eight questions on how well strategy, teams, delivery and measurement work together.
 

@@ -29,7 +29,7 @@ Every outcome, at every level of the chain, has to pass three tests. Each asks s
 
 → **Effectiveness (Achieve):** do they get the result they came for, the one the value proposition promised?
 
-In the framework behind this series, these are the [3E model](https://github.com/Insheights/in-frameworks/blob/master/3e.md). What makes them useful is the order. 3E reads them as a sequence, not as parallel lenses to watch at once, because that’s the order in which a stakeholder usually meets value. They can’t feel value they can’t use, and they won’t stay long enough to achieve anything with value they don’t trust. The sequence is a reasoned model of where value tends to break down, not a proven causal law. Treat it as the order to look in, then confirm what you find with evidence.
+In the system behind this series, these are the [Efficiency, Experience, Effectiveness (3E) model](https://github.com/Insheights/in-frameworks/blob/master/3e.md). What makes them useful is the order. 3E reads them as a sequence, not as parallel lenses to watch at once, because that’s the order in which a stakeholder usually meets value. They can’t feel value they can’t use, and they won’t stay long enough to achieve anything with value they don’t trust. The sequence is a reasoned model of where value tends to break down, not a proven causal law. Treat it as the order to look in, then confirm what you find with evidence.
 
 Each test has its own role. Efficiency is the table stake: when it fails, you can’t reach the other two. Experience is the bridge: it’s the earliest signal that value is being realized, and the best early warning that achievement will or won’t follow. Effectiveness is the proof: it confirms that the value proposition was delivered, not merely that the system ran. The first two show up in days or weeks. The third confirms last.
 
@@ -117,7 +117,7 @@ Stocklight’s Adoption team:
 
 > *For emergency orders falling 30% within 60 days of go-live at the Adopt & Use stage, inventory managers can use it if alerts stay below eight a day and take less than 15 minutes to clear; they feel it if 70% order from an alert without checking a spreadsheet first and 60% still act on alerts in their third month; and they achieve it if emergency orders fall 30% within 60 days of go-live without safety stock rising. We read Use weekly, Feel weekly with monthly discovery visits, and Achieve monthly, in that order.*
 
-If you can’t fill in the “without” blank, you haven’t yet asked how your outcome could move without creating value. Someone on your team will eventually find out for you. In IIVCS, the [3E model](https://github.com/Insheights/in-frameworks/blob/master/3e.md) defines the three tests, and the [metrics and indicators guide](https://github.com/Insheights/in-frameworks/blob/master/metrics-and-indicators.md#part-5--thresholds-and-reference-bars) gives candidate signals for each and how to set their thresholds.
+If you can’t fill in the “without” blank, you haven’t yet asked how your outcome could move without creating value. Someone on your team will eventually find out for you. In the Insheights Integrated Value Creation System (IIVCS), the [3E model](https://github.com/Insheights/in-frameworks/blob/master/3e.md) defines the three tests, and the [metrics and indicators guide](https://github.com/Insheights/in-frameworks/blob/master/metrics-and-indicators.md#part-5--thresholds-and-reference-bars) gives candidate signals for each and how to set their thresholds.
 
 ## Test your outcomes
 
@@ -135,7 +135,7 @@ If you can’t answer the first, you’re tracking outcomes without seeing what 
 
 Three tests tell you whether you delivered value. They don’t tell you what stakeholders do about it. The next article shifts from how you deliver value to what it produces in behavior: whether stakeholders adopt it, engage with it, and keep using it.
 
-The framework behind this series is open on GitHub: [github.com/Insheights/in-frameworks](https://github.com/Insheights/in-frameworks)
+The frameworks behind this series are open on GitHub: [github.com/Insheights/in-frameworks](https://github.com/Insheights/in-frameworks)
 
 **Where does your organization stand?** The [Quick Self-Assessment](https://github.com/Insheights/in-frameworks/blob/master/quick-assessment.md) gives a directional reading in a few minutes: eight questions on how well strategy, teams, delivery and measurement work together.
 
