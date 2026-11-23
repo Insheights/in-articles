@@ -190,7 +190,7 @@ Then give the strategy to a team lead and ask them to make one real trade-off us
 
 A strategy written this way gives a value stream something to own: a problem, an outcome chain, a set of choices, and bets with attached signals. The next article, From Strategic Intent to Outcomes an Empowered Team Can Own, shows how that intent becomes work a team can actually be accountable for.
 
-The framework behind this series is open on GitHub: [github.com/Insheights/in-frameworks](https://github.com/Insheights/in-frameworks)
+The frameworks behind this series are open on GitHub: [github.com/Insheights/in-frameworks](https://github.com/Insheights/in-frameworks)
 
 **Where does your organization stand?** The [Quick Self-Assessment](https://github.com/Insheights/in-frameworks/blob/master/quick-assessment.md) gives a directional reading in a few minutes: eight questions on how well strategy, teams, delivery and measurement work together.
 

@@ -159,7 +159,7 @@ A mindset alone isn’t enough, though. It needs a structure to work inside. Min
 
 In the Insheights Integrated Value Creation System (IIVCS), Product Mindset is the operating philosophy: the system's [README](https://github.com/Insheights/in-frameworks) sets out the five principles and shows how each one works in the Organization Strategy Model (OSM), the Product Transformation System (PTS) and the Customer Value Delivery Model (CVDM).
 
-The framework behind this series is open on GitHub: [github.com/Insheights/in-frameworks](https://github.com/Insheights/in-frameworks)
+The frameworks behind this series are open on GitHub: [github.com/Insheights/in-frameworks](https://github.com/Insheights/in-frameworks)
 
 **Where does your organization stand?** The [Quick Self-Assessment](https://github.com/Insheights/in-frameworks/blob/master/quick-assessment.md) gives a directional reading in a few minutes: eight questions on how well strategy, teams, delivery and measurement work together.
 

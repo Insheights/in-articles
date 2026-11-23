@@ -129,7 +129,7 @@ You’ll likely find the leaks. Not inside any one team’s work, but between th
 
 In the Insheights Integrated Value Creation System (IIVCS), each leak has a counterpart. The [Feedback System](https://github.com/Insheights/in-frameworks/blob/master/feedback.md) carries customer signal back to the people setting strategy. [Adoption, Engagement, Retention (AER)](https://github.com/Insheights/in-frameworks/blob/master/aer.md) measures whether people take up what is delivered, inside the company and outside it. Value streams give one owner the whole outcome. And the Organization Strategy Model (OSM) keeps the intent attached as strategy becomes work.
 
-The framework behind this series is open on GitHub: [github.com/Insheights/in-frameworks](https://github.com/Insheights/in-frameworks)
+The frameworks behind this series are open on GitHub: [github.com/Insheights/in-frameworks](https://github.com/Insheights/in-frameworks)
 
 **Where does your organization stand?** The [Quick Self-Assessment](https://github.com/Insheights/in-frameworks/blob/master/quick-assessment.md) gives a directional reading in a few minutes: eight questions on how well strategy, teams, delivery and measurement work together.
 
