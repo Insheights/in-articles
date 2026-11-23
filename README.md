@@ -44,21 +44,13 @@ No articles yet. See the [series index](series/agentic-engineering/README.md).
 
 ## Documents in This Repository
 
-> **Status:** An article marked `published` is kept as it appeared. A correction is reviewed like a new article, then made here and on the published copy together.
-
-**Series indexes**
-- [IIVCS](series/iivcs/README.md) — the series by part
-- [Agentic Engineering](series/agentic-engineering/README.md) — no articles yet
-
 **Layout**
-- `series/<series>/NN-<slug>/` — one folder per article, numbered in the order published
-- `standalone/<date>-<slug>/` — articles that belong to no series
+- `series/<series>/NN-<slug>/` — one folder per article; each series has an index, linked above, that lists its articles by part
+- `standalone/<date>-<slug>/` — one folder per article, by publication date
 - Each article folder — `article.md` and its `images/`, and `linkedin.md` once the article has companion LinkedIn posts
 
 **Templates**
-- [Article template](templates/article.md) — the starting point for a new article
-
-**Front matter** — every `article.md` begins with the fields in the [article template](templates/article.md).
+- [Article template](templates/article.md) — the starting point for a new article, including the front matter every `article.md` begins with
 
 ---
 
