@@ -118,11 +118,11 @@ Stocklight’s rewrite: *We are betting that inventory managers will act on aler
 
 That last sentence is the bet’s rejection condition, and it matters as much as the bet. It tells the stream owner in advance what evidence should change the plan, so changing it is part of the strategy rather than a retreat.
 
-Each priority carries its own bet, and the priorities are ranked, so a team lead knows which one wins when two collide. OSM keeps them in a Priority Register. Stocklight’s has three:
+Each priority carries its own bet, and the priorities are ranked, so a team lead knows which one wins when two collide. OSM keeps them in a Priority Register. Stocklight’s has three, with onboarding first because the other two depend on it:
 
-1. **Emergency orders fall 30% within 60 days of go-live.** The bet: inventory managers will act on alerts inside the warehouse systems they already run. Rejected if fewer than 70% act on an alert in their first month, read by the end of Q1 2027.
-2. **Onboarding falls from 90 days to 30 by Q4 2027.** The bet: one customer success team, with no handoffs, gets a distributor to live data faster. Rejected if the five-distributor pilot hasn’t reached 30 days by the end of Q2 2027.
-3. **Renewal rate rises from 82% to 92% by Q4 2027.** The bet: distributors who stop running out of stock renew. Rejected if renewals among the test distributors don’t beat the rest by the end of Q4 2027.
+1. **Onboarding falls from 90 days to 30 by Q4 2027.** The bet: one customer success team, with no handoffs, gets a distributor to live data faster. Rejected if the five-distributor pilot isn’t under 60 days by the end of Q2 2027.
+2. **Emergency orders fall 30% within 60 days of go-live.** The bet: inventory managers will act on alerts inside the warehouse systems they already run. Rejected if fewer than 70% act on an alert in their first month, read by the end of Q1 2027.
+3. **Renewal rate rises from 82% to 92% by Q4 2027.** The bet: distributors who stop running out of stock renew. Rejected if renewals among the 10 test distributors don’t beat the rest by the end of Q4 2027.
 
 New regions and the data platform aren’t on the list. They wait on conditions the choices above already name.
 
