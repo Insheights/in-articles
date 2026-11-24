@@ -133,7 +133,7 @@ Ownership also changes how we handle failure. When one person owns an outcome, a
 
 State a value stream as clearly as a strategy. Here’s Stocklight’s:
 
-> *The **Keep Distributors Stocked** value stream turns our intent to **help distributors avoid stockouts** into **fewer stockouts and confident inventory decisions** for **regional industrial distributors**, owned by **one accountable leader**, with **product, sales, installation, and support** contributing, measured by **emergency orders falling 30% within 60 days of go-live and renewal rate rising from 82% to 92% by Q4 2027**, and if **fewer than 70% of inventory managers act on our alerts in their first month, read by the end of Q1 2027**, **the stream owner** decides whether to persist, retune, re-resource, or stop.*
+> *The **Keep Distributors Stocked** value stream turns our intent to **help distributors avoid stockouts** into **fewer stockouts and confident inventory decisions** for **regional industrial distributors**, owned by **one accountable leader**, with **product, sales, installation, and support** contributing, measured by **emergency orders falling 30% within 60 days of go-live and renewal rate rising from 82% to 92% by Q4 2027**, and if **fewer than 70% of inventory managers act on our alerts in their first month, read by the end of Q1 2027**, **the executive team’s decision forum** decides whether to persist, retune, re-resource, or stop.*
 
 **Template 4: the value stream statement.** And the template:
 

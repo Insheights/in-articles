@@ -73,7 +73,7 @@ The second time, the stream owner starts from what’s already written: the stra
 
 → **The choices:** alerts are delivered inside the warehouse systems distributors already run, not in a new dashboard, and new regions wait until renewals reach 88%
 
-→ **The bet:** inventory managers will act on alerts there. If fewer than 70% do in their first month of the Q1 2027 test with 10 distributors, the stream owner decides whether to persist, retune, re-resource, or stop
+→ **The bet:** inventory managers will act on alerts there. If fewer than 70% do in their first month of the Q1 2027 test with 10 distributors, the stream owner takes it to the executive team’s decision forum, which decides whether to persist, retune, re-resource, or stop
 
 → **The stream:** the Keep Distributors Stocked value stream, with one accountable leader, measured by emergency orders falling 30% within 60 days of go-live and renewals rising from 82% to 92% by Q4 2027
 
