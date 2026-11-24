@@ -9,6 +9,7 @@ Everything committed here, on any branch and including this file, is readable by
 - No client or prospect names, no internal strategy, no pricing, no unreleased plans (a series lists only what is published), no local paths or account details.
 - No review notes or panel records. Those are kept privately, not here.
 - Nothing may imply that Knowledge Pier is a shipping or proven product.
+- Only published articles. A draft is written and reviewed in `../in-scope` and arrives here when it is published, with its images and LinkedIn post, on no branch before then.
 
 ## Direction comes from in-scope
 

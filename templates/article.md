@@ -3,7 +3,7 @@ title: ""
 subtitle: ""
 series: ~              # iivcs | agentic-engineering | ~ for a standalone article
 number: ~              # order of publication within the series
-status: draft          # draft | in-review | approved | published
+status: published      # only published articles are kept here
 published: ~           # YYYY-MM-DD, set when published
 medium_url: ~          # set when published on Medium
 canonical: ~           # where the original copy lives: medium, or the site URL
