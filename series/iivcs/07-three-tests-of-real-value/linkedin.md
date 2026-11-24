@@ -23,9 +23,9 @@ Then the team visited the customers.\
 
 The outcomes moved. The value didn't.
 
-An outcome measured one way can move without creating value. The three tests every outcome has to pass, in order:\
-1. Efficiency (Use): can stakeholders use what's delivered with less effort, not more?\
-2. Experience (Feel): do they feel the difference, and trust it enough to rely on it?\
+An outcome measured one way can move without creating value. The three tests every outcome has to pass, in order:
+1. Efficiency (Use): can stakeholders use what's delivered with less effort, not more?
+2. Experience (Feel): do they feel the difference, and trust it enough to rely on it?
 3. Effectiveness (Achieve): do they get the result they came for?
 
 The order matters. People can't feel value they can't use, and they won't stay long enough to achieve anything with value they don't trust.

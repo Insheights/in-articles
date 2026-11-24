@@ -43,9 +43,9 @@ Each "before" counts what gets produced. Each "after" names what changes, and fo
 
 And they connect: revenue only comes if distributors renew; they renew only if stockouts fall; and that can't happen while onboarding takes three months.
 
-A simple test for your next leadership meeting:\
-1. What customer outcome is our biggest initiative meant to change, and how will we know?\
-2. What would tell us in 90 days that it's the wrong bet?\
+A simple test for your next leadership meeting:
+1. What customer outcome is our biggest initiative meant to change, and how will we know?
+2. What would tell us in 90 days that it's the wrong bet?
 3. Which single team owns that outcome end to end?
 
 If the answers depend on whom you ask, product mindset lives in a role, not in the organization.
