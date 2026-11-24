@@ -33,7 +33,7 @@ Put simply, a strategy is executable when it tells people what to decide, not ju
 
 ## Stocklight, before
 
-Stocklight, the illustrative company we’ve followed through this series, sells inventory visibility software to regional industrial distributors. In the last article, it organized around one value stream, Customer Experience, owned end to end. But go back to the strategy document that started the year, and the problem begins earlier.
+Stocklight, the illustrative company we’ve followed through this series, sells inventory visibility software to regional industrial distributors. In the last article, it organized around one value stream, Keep Distributors Stocked, owned end to end. But go back to the strategy document that started the year, and the problem begins earlier.
 
 The document read like most strategy documents do:
 
@@ -124,7 +124,7 @@ That last sentence is the bet’s rejection condition, and it matters as much as
 
 Each strategic intent needs one accountable owner and a value stream it travels through. If you can’t assign an intent to a stream, it’s either too vague to own, or it’s really several intents bundled together.
 
-Stocklight’s rewrite: *The Customer Experience value stream owns this intent. Its owner is accountable for the outcome chain above, with product, sales, installation, and support contributing.*
+Stocklight’s rewrite: *The Keep Distributors Stocked value stream owns this intent. Its owner is accountable for the outcome chain above, with product, sales, installation, and support contributing.*
 
 This is where the strategy meets the anchor diagram from the last article: the intent sits at the top, travels through the stream’s stages, and is realized at Adopt & Use, when an inventory manager acts on an alert.
 
@@ -136,7 +136,7 @@ Put together, Stocklight’s strategy is four statements. It starts with the str
 
 > ***Transformation:*** *By Q4 2027, we will move from onboarding customers through separate sales, installation, and support teams to onboarding each distributor through a single customer success team, so that distributors can go from signed contract to live inventory data without being passed between departments, measured by onboarding time falling from 90 days to 30.*
 
-> ***Value stream:*** *The Customer Experience value stream turns our intent to help distributors avoid stockouts into fewer stockouts and confident inventory decisions for regional industrial distributors, owned by one accountable leader, with product, sales, installation, and support contributing, measured by emergency orders falling 30% within 60 days of go-live and renewal rate rising from 82% to 92% by Q4 2027, and if fewer than 70% of inventory managers act on our alerts in their first month, the stream owner decides whether to persist, retune, re-resource, or stop.*
+> ***Value stream:*** *The Keep Distributors Stocked value stream turns our intent to help distributors avoid stockouts into fewer stockouts and confident inventory decisions for regional industrial distributors, owned by one accountable leader, with product, sales, installation, and support contributing, measured by emergency orders falling 30% within 60 days of go-live and renewal rate rising from 82% to 92% by Q4 2027, and if fewer than 70% of inventory managers act on our alerts in their first month, the stream owner decides whether to persist, retune, re-resource, or stop.*
 
 > ***Value delivery:*** *Distributor inventory managers will reduce stockouts using real-time inventory visibility within 60 days of going live, and we will know because emergency orders at their warehouses fall.*
 
@@ -170,7 +170,7 @@ Earlier in the series, we treated strategy as a set of bets. The templates below
 
 Stocklight’s one-page version:
 
-> *Regional industrial distributors can’t avoid stockouts today because their inventory managers see demand changes too late to act, and onboarding takes 90 days. By Q4 2027, we will deliver alerts inside the warehouse systems they already run rather than building a new dashboard, and move from onboarding through separate sales, installation, and support teams to onboarding each distributor through a single customer success team. We’ll know it’s working when onboarding falls from 90 days to 30 and emergency orders fall 30% within 60 days of go-live, leading to renewals rising from 82% to 92% by Q4 2027 and revenue from distributors reaching $40M by 2028. We will defer expansion beyond our current regions until the renewal rate reaches 88%. We’re betting inventory managers will act on alerts in the warehouse systems they already run, and if fewer than 70% act on our alerts in their first month, the stream owner decides whether to persist, retune, re-resource, or stop. One accountable leader owns it through the Customer Experience value stream.*
+> *Regional industrial distributors can’t avoid stockouts today because their inventory managers see demand changes too late to act, and onboarding takes 90 days. By Q4 2027, we will deliver alerts inside the warehouse systems they already run rather than building a new dashboard, and move from onboarding through separate sales, installation, and support teams to onboarding each distributor through a single customer success team. We’ll know it’s working when onboarding falls from 90 days to 30 and emergency orders fall 30% within 60 days of go-live, leading to renewals rising from 82% to 92% by Q4 2027 and revenue from distributors reaching $40M by 2028. We will defer expansion beyond our current regions until the renewal rate reaches 88%. We’re betting inventory managers will act on alerts in the warehouse systems they already run, and if fewer than 70% act on our alerts in their first month, the stream owner decides whether to persist, retune, re-resource, or stop. One accountable leader owns it through the Keep Distributors Stocked value stream.*
 
 Whichever you use, if you can’t fill in the “rather than” or the “defer” blanks, you haven’t made a choice yet. In the Insheights Integrated Value Creation System (IIVCS), this is the work of the Organization Strategy Model (OSM). Its [practitioner guide](https://github.com/Insheights/in-frameworks/blob/master/guides/osm-practitioners-guide.md) covers the [One-Page Strategy](https://github.com/Insheights/in-frameworks/blob/master/guides/osm-practitioners-guide.md#step-2--make-the-strategic-choices) and the [Priority Register](https://github.com/Insheights/in-frameworks/blob/master/guides/osm-practitioners-guide.md#step-3--set-and-rank-strategic-value-priorities), where each bet is recorded with its rejection condition.
 

@@ -39,7 +39,7 @@ That’s the core move. The strategy’s outcome chain isn’t divided by functi
 
 ## Stocklight, before
 
-Stocklight, the illustrative company we’ve followed through this series, sells inventory visibility software to regional industrial distributors. Its rewritten strategy was approved. The Customer Experience value stream had one accountable leader. Then came planning, and the old habits returned.
+Stocklight, the illustrative company we’ve followed through this series, sells inventory visibility software to regional industrial distributors. Its rewritten strategy was approved. The Keep Distributors Stocked value stream had one accountable leader. Then came planning, and the old habits returned.
 
 The stream owner’s first instinct was to break the strategy into work and hand it out:
 
@@ -75,7 +75,7 @@ The second time, the stream owner starts from what’s already written: the stra
 
 → **The bet:** inventory managers will act on alerts there. If fewer than 70% do in their first month of the Q1 2027 test with 10 distributors, the stream owner decides whether to persist, retune, re-resource, or stop
 
-→ **The stream:** the Customer Experience value stream, with one accountable leader, measured by emergency orders falling 30% within 60 days of go-live and renewals rising from 82% to 92% by Q4 2027
+→ **The stream:** the Keep Distributors Stocked value stream, with one accountable leader, measured by emergency orders falling 30% within 60 days of go-live and renewals rising from 82% to 92% by Q4 2027
 
 What’s new is only what happens below the stream owner. Instead of breaking these statements into functional assignments, the stream owner walks the outcome chain layer by layer and asks at each one: who could move this, and how fast would they know?
 
@@ -83,7 +83,7 @@ What’s new is only what happens below the stream owner. Instead of breaking th
 
 The top layers don’t change hands. Leadership owns the intent and the business impact it drives. The stream owner owns the business outcome and stays accountable for the product outcome, as the value stream statement says. What changes is the bottom of the chain. Instead of five functional assignments, two teams each take a link they can move and see moving within weeks, aligned to the value stages where that link is realized.
 
-Ownership here is nested, not divided. A team owning a link doesn’t take it away from the stream owner, who stays accountable for the whole chain and decides when the two teams’ needs collide.
+Ownership here is nested, not divided. Both teams work in the one stream: each owns the customer outcome at its own stages, and the stream owner owns the stream’s outcome. A team owning a link doesn’t take it away from the stream owner, who stays accountable for the whole chain and decides when the two teams’ needs collide.
 
 ![](images/02.png)
 
@@ -125,7 +125,7 @@ Practitioners from product management, software delivery, and military command h
 
 **Give teams problems, not features.** In *Escaping the Build Trap* (2018), Melissa Perri describes organizations that measure success by what they ship rather than by the value it creates, and stay busy without getting better. Marty Cagan makes the positive case in *Empowered* (2020): strong product teams are given problems to solve and held accountable for results, rather than handed a roadmap of features to deliver. The five expectations earlier in this article are what make that empowerment real rather than declared. Stocklight’s first plan was a build trap with good intentions. Its second gave each team a problem.
 
-**Align teams to a stream, not a function.** In *Team Topologies* (2019), Matthew Skelton and Manuel Pais describe the stream-aligned team: a team aligned to a single flow of work, with the skills to deliver value in that flow without handing work off to other teams. They also argue that a team’s scope should fit what it can hold in mind at once. Both ideas explain why Stocklight’s teams map to value stages rather than to departments, and why each owns one outcome rather than five.
+**Align teams to a stream, not a function.** In *Team Topologies* (2019), Matthew Skelton and Manuel Pais describe the stream-aligned team: a team aligned to a single flow of work, with the skills to deliver value in that flow without handing work off to other teams. They also argue that a team’s scope should fit what it can hold in mind at once. Both ideas explain why Stocklight’s two teams are aligned to the one stream, each working at its own stages rather than in a department, and why each owns one outcome rather than five.
 
 **Check the translation before the work starts.** In *The Art of Action* (2011), Stephen Bungay describes backbriefing: after receiving an intent, the people who will act on it brief back what they understood, what they plan to do, and what they need. Gaps in the translation surface before they become gaps in execution. Hoshin kanri, the strategy deployment practice associated with Toyota, uses a similar loop called catchball, in which targets are passed back and forth between levels until both sides agree they’re right and achievable. In both, teams negotiate the outcome they own, not just receive it.
 
@@ -139,11 +139,11 @@ Practitioners from product management, software delivery, and military command h
 
 Stocklight’s Adoption team:
 
-> *The Adoption team owns inventory managers acting on alerts before stockouts happen at the Adopt & Use stage of the Customer Experience value stream, moving emergency orders down 30% within 60 days of go-live, which feeds the renewal rate rising from 82% to 92% by Q4 2027. We’ll know within four weeks from the share of inventory managers acting on an alert in their first month, with a target of 70%. We decide alert thresholds, timing, wording, and where alerts appear, within delivering alerts inside the warehouse systems distributors already run rather than a new dashboard, and we’ll bring evidence to the Customer Experience stream owner if fewer than 70% of inventory managers act on our alerts in their first month.*
+> *The Adoption team owns inventory managers acting on alerts before stockouts happen at the Adopt & Use stage of the Keep Distributors Stocked value stream, moving emergency orders down 30% within 60 days of go-live, which feeds the renewal rate rising from 82% to 92% by Q4 2027. We’ll know within four weeks from the share of inventory managers acting on an alert in their first month, with a target of 70%. We decide alert thresholds, timing, wording, and where alerts appear, within delivering alerts inside the warehouse systems distributors already run rather than a new dashboard, and we’ll bring evidence to the Keep Distributors Stocked stream owner if fewer than 70% of inventory managers act on our alerts in their first month.*
 
 Stocklight’s Activation team:
 
-> *The Activation team owns distributors reaching first value at the Connect & Configure and Onboard & Activate stages of the Customer Experience value stream, moving time from signed contract to first alert acted on from 90 days to 30 by Q4 2027, which feeds emergency orders falling 30% within 60 days of go-live. We’ll know within two weeks of each signing from days until trusted inventory data is live. We decide how installation and training are sequenced and which warehouse systems to connect first, within moving data platform work forward only where onboarding depends on it, and we’ll bring evidence to the Customer Experience stream owner if more than one in five new distributors needs a custom integration.*
+> *The Activation team owns distributors reaching first value at the Connect & Configure and Onboard & Activate stages of the Keep Distributors Stocked value stream, moving time from signed contract to first alert acted on from 90 days to 30 by Q4 2027, which feeds emergency orders falling 30% within 60 days of go-live. We’ll know within two weeks of each signing from days until trusted inventory data is live. We decide how installation and training are sequenced and which warehouse systems to connect first, within moving data platform work forward only where onboarding depends on it, and we’ll bring evidence to the Keep Distributors Stocked stream owner if more than one in five new distributors needs a custom integration.*
 
 If you can’t fill in the “we decide” blank with something real, the team doesn’t own an outcome. It owns a task list with a number attached.
 
