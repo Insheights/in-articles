@@ -5,7 +5,7 @@ series: iivcs
 number: 8
 status: published
 published: 2026-11-24
-medium_url: ~
+medium_url: https://medium.com/@xambrose/adoption-engagement-retention-the-behaviors-that-show-value-before-results-do-e7ba8388ce92
 canonical: ~
 ---
 
