@@ -67,7 +67,7 @@ Then the Adoption team ran its monthly discovery visits, and the inventory manag
 
 → **Effectiveness.** Emergency orders were falling, but at three of the ten distributors the drop came from raising safety stock after the false alarms, not from acting on alerts earlier. Those distributors had fewer stockouts and more cash tied up in inventory. The outcome moved, but the problem the strategy diagnosed, that distributors act on inventory data too late, hadn’t changed.
 
-Every outcome passed. Every test failed. Had Stocklight scaled on that review, Stocklight would have rolled alert fatigue out to its whole customer base and found out when renewals came due, long after changing course was cheap.
+Every outcome passed. Every test failed. Had Stocklight scaled on that review, it would have rolled alert fatigue out to its whole customer base and found out when renewals came due, long after changing course was cheap.
 
 ## Stocklight, after
 
@@ -91,7 +91,7 @@ Six weeks later, managers were getting about six alerts a day and clearing them 
 
 The redefinition also reached the Activation team. Its time to first value went from 41 days to 52 overnight, because a first alert “acted on” now meant an order, not a click. Nothing about onboarding had changed. The measure had simply stopped flattering it, and the team now knew the real distance to its 30-day target.
 
-It reached the strategy too. “Acted on” was also the measure in the bet’s rejection condition: fewer than 70% of inventory managers acting on alerts in their first month. The bet had passed at 78% under the old definition, and that reading no longer counted. Changing what a rejection condition measures makes a new hypothesis, so the stream owner took it to the decision forum, where the executive team decides. The 78% run stayed in the decision log, marked as read on a flawed measure. The new definition went in as a new hypothesis, with the reason and a date to read it by, and the forum, not the team or the stream owner, decided whether to persist, retune, re-resource, or stop.
+It reached the strategy too. “Acted on” was also the measure in the bet’s rejection condition: fewer than 70% of inventory managers acting on alerts in their first month. The bet had passed at 78% under the old definition, and that reading no longer counted. Changing what a rejection condition measures makes a new hypothesis, so the stream owner took it to the decision forum, where the executive team decides. The 78% run stayed in the decision log, marked as read on a flawed measure. The new definition went in as a new hypothesis, with the reason and a date to read it by. The forum gave the hypothesis its status first, then decided whether to persist, retune, re-resource, or stop.
 
 The same tests apply at every link of the chain, not only at the team level. Revenue growth toward $40M that costs more to serve than it earns fails Efficiency. Renewals won with discounts from distributors who don’t trust the product fail Experience. The stream owner and leadership ask the same three questions about their outcomes as the teams do about theirs, but on a slower cadence.
 
