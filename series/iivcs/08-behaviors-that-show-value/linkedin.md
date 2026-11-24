@@ -2,8 +2,8 @@
 article: article.md
 platform: linkedin
 status: published
-published: ~
-url: ~
+published: 2026-11-24
+url: https://www.linkedin.com/feed/update/urn:li:activity:7531073919907168257/
 ---
 
 # LinkedIn post: Adoption, Engagement, Retention: The Behaviors That Show Value Before Results Do
@@ -35,9 +35,9 @@ For internal tools, one lesson matters most: productivity that stops at the empl
 
 The article includes a template for an AER (Adoption, Engagement, Retention) indicator set: what you steer by, what confirms it, and how often each is read.
 
-Full article, Adoption, Engagement, Retention: The Behaviors That Show Value Before Results Do: [Medium link]
+Full article, Adoption, Engagement, Retention: The Behaviors That Show Value Before Results Do: https://lnkd.in/gbUHwSFC
 
-The frameworks behind this series: https://github.com/Insheights/in-frameworks
+The frameworks behind this series: https://lnkd.in/gBsqbmA5
 
 Think of the last tool your organization rolled out. Could you name the customer outcome it was meant to move, or only how many people use it?
 
