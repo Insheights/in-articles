@@ -1,12 +1,19 @@
 # Insheights Articles
 
-The source of Insheights articles: each article's text, its images and where it was published. The articles here have appeared on [Medium](https://medium.com/@xambrose).
+**Insheights Integrated Value Creation System (IIVCS) Series | Agentic Engineering Series | Standalone Articles**
 
-## Series
+Articles by Insheights LLC on how organizations define, build, and deliver value.
 
-### [IIVCS](series/iivcs/README.md)
+This repository is the source of each article — its text, its images, and where it was published. The articles have appeared on [Medium](https://medium.com/@xambrose).
 
-How value flows from strategy to customer, told through the Insheights Integrated Value Creation System (IIVCS). The frameworks themselves are open at [Insheights/in-frameworks](https://github.com/Insheights/in-frameworks).
+- **Series** — articles that build on one another, numbered in the order published
+- **Standalone** — articles that belong to no series
+
+---
+
+## IIVCS Series
+
+How value flows from strategy to customer, and where it leaks on the way, told through the IIVCS, whose frameworks are open at [Insheights/in-frameworks](https://github.com/Insheights/in-frameworks). The series groups its articles into parts in its [index](series/iivcs/README.md).
 
 | No. | Article | Published |
 |---|---|---|
@@ -18,24 +25,33 @@ How value flows from strategy to customer, told through the Insheights Integrate
 | 6 | [From Strategic Intent to Outcomes an Empowered Team Can Own](series/iivcs/06-outcomes-a-team-can-own/article.md) | 2026-10-31 |
 | 7 | [Efficiency, Experience, Effectiveness: The Three Tests of Real Value](series/iivcs/07-three-tests-of-real-value/article.md) | 2026-11-04 |
 
-### [Agentic Engineering](series/agentic-engineering/README.md)
+---
 
-No articles yet.
+## Agentic Engineering Series
 
-## Standalone
+No articles yet. See the [series index](series/agentic-engineering/README.md).
+
+---
+
+## Standalone Articles
 
 | Article | Published |
 |---|---|
 | [Your Enterprise AI is paced by processes no one revisits.](standalone/2026-09-05-enterprise-ai-paced-by-processes/article.md) | 2026-09-05 |
 | [AI-enabled solutions are products](standalone/2026-09-17-ai-enabled-solutions-are-products/article.md) | 2026-09-17 |
 
-## How this repo is laid out
+---
 
-- `series/<series>/NN-<slug>/`: one folder per article, numbered in the order published. A series may group its articles into parts, listed in its `README.md`.
-- `standalone/<date>-<slug>/`: articles that belong to no series.
-- Each article folder holds `article.md` and its `images/`, and a `linkedin.md` once it has companion LinkedIn posts.
-- `templates/article.md`: the starting point for a new article.
+## Documents in This Repository
 
-Each `article.md` begins with front matter: `title`, `subtitle`, `series`, `number`, `status` (`draft`, `in-review`, `approved` or `published`), `published`, `medium_url` and `canonical`.
+**Layout**
+- `series/<series>/NN-<slug>/` — one folder per article; each series has an index, linked above, that lists its articles by part
+- `standalone/<date>-<slug>/` — one folder per article, by publication date
+- Each article folder — `article.md` and its `images/`, and `linkedin.md` once the article has companion LinkedIn posts
 
-Articles already published are kept as they appeared. A correction is reviewed like a new article, then made here and on the published copy together.
+**Templates**
+- [Article template](templates/article.md) — the starting point for a new article, including the front matter every `article.md` begins with
+
+---
+
+© 2026 Insheights LLC. All rights reserved.
