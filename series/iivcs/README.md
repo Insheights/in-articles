@@ -16,3 +16,7 @@ Articles are numbered in the order they are published.
 5. [Why Most Strategies Can’t Be Executed as Written, and What It Takes to Write One That Can](05-strategies-that-can-be-executed/article.md)
 6. [From Strategic Intent to Outcomes an Empowered Team Can Own](06-outcomes-a-team-can-own/article.md)
 7. [Efficiency, Experience, Effectiveness: The Three Tests of Real Value](07-three-tests-of-real-value/article.md)
+
+## Part 3 — Delivering and proving value
+
+8. [Adoption, Engagement, Retention: The Behaviors That Show Value Before Results Do](08-behaviors-that-show-value/article.md)
