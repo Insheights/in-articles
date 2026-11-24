@@ -83,7 +83,7 @@ What’s new is only what happens below the stream owner. Instead of breaking th
 
 The top layers don’t change hands. Leadership owns the intent and the business impact it drives. The stream owner owns the business outcome and stays accountable for the product outcome, as the value stream statement says. What changes is the bottom of the chain. Instead of five functional assignments, two teams each take a link they can move and see moving within weeks, aligned to the value stages where that link is realized.
 
-Ownership here is nested, not divided. Both teams work in the one stream: each owns the customer outcome at its own stages, and the stream owner owns the stream’s outcome. A team owning a link doesn’t take it away from the stream owner, who stays accountable for the whole chain and decides when the two teams’ needs collide.
+Ownership here is nested, not divided. Both teams are [Core teams](https://github.com/Insheights/in-frameworks/blob/master/glossary.md) in the one stream: each owns the customer outcome at its own stages, and the stream owner owns the stream’s outcome. A team owning a link doesn’t take it away from the stream owner, who stays accountable for the whole chain and decides when the two teams’ needs collide.
 
 ![](images/02.png)
 
