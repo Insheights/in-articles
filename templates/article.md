@@ -6,7 +6,7 @@ number: ~              # order of publication within the series
 status: published      # only published articles are kept here
 published: ~           # YYYY-MM-DD, set when published
 medium_url: ~          # set when published on Medium
-canonical: ~           # where the original copy lives: medium, or the site URL
+canonical: ~           # the canonical URL for readers, where one is set
 ---
 
 # Title
