@@ -24,7 +24,7 @@ A value stream is the end-to-end set of stages that creates value for a stakehol
 
 Take Stocklight, an illustrative company that sells inventory software to industrial distributors. Its intent: help distributors avoid stockouts. A year in, the forecasting module had shipped on time, onboarding still took 90 days, few inventory managers used the forecasts, and renewals slipped. Every team hit its targets. The outcome had no owner.
 
-So Stocklight starts managing its Customer Experience value stream as one stream, with one owner: Attract & Engage → Evaluate & Commit → Connect & Configure → Onboard & Activate → Adopt & Use → Renew & Expand.
+So Stocklight starts managing its Keep Distributors Stocked value stream as one stream, with one owner: Attract & Engage → Evaluate & Commit → Connect & Configure → Onboard & Activate → Adopt & Use → Renew & Expand.
 
 Its stockout-prevention initiative runs through that stream with a chain of targets: $40M distributor revenue by 2028, renewal rate up from 82% to 92% by Q4 2027, and emergency orders down 30% within 60 days of go-live.
 

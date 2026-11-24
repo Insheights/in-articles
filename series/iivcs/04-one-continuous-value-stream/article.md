@@ -21,13 +21,13 @@ If the leaks live between functions, better functions won't close them. Somethin
 
 ## What a value stream is
 
-In business architecture practice, a value stream is the end-to-end set of value-adding stages that creates an overall result for a stakeholder. It starts with a triggering stakeholder, the customer or other party whose need sets it in motion. Each stage adds an increment of value for that stakeholder, called a value item, and the value items build on one another until the stream delivers its value proposition.
+In business architecture practice, a value stream is the end-to-end set of value stages that creates an overall result for a stakeholder. It starts with the stakeholder whose need sets it in motion, the customer or another party. Each stage leaves that stakeholder measurably closer to the result, an increment business architects call a value item, and the value items build on one another until the stream delivers its value proposition.
 
 A value stream isn't a department, and it isn't a process. A department is defined by the work it does, and a process describes how internal work gets done. A value stream is defined by the value a stakeholder receives, and it draws on every capability that value depends on.
 
 A value stream also outlasts the initiatives that run through it. Initiatives come and go. The stream is the stable path they travel.
 
-The Insheights Integrated Value Creation System (IIVCS) adds two things to that definition. First, a return path: evidence of what the stakeholder actually experienced travels back along the stream, so it can change what happens next. The second is an owner. A stream that nobody owns can be mapped perfectly and still leak value at every handoff.
+The Insheights Integrated Value Creation System (IIVCS) asks two more things of it. First, a return path: evidence of what the stakeholder actually experienced travels back along the stream, so it can change what happens next. The second is an owner. A stream that nobody owns can be mapped perfectly and still leak value at every handoff.
 
 The difference sounds small. In practice, it changes the question every team asks. In a function-based model, the question is “Did we do our part?” In a value stream, the question is “Did the value reach the customer, and what’s stopping it?”
 
@@ -50,7 +50,7 @@ When renewals slipped, every function could show its own part had succeeded, and
 
 ## Stocklight, after
 
-Stocklight starts managing its Customer Experience value stream as one stream: the full path a distributor takes as its customer. The stream triggers when a distributor faces costly stockouts, and its value proposition is to avoid stockouts through confident inventory decisions. It runs through six value stages, each ending in a value item:
+Stocklight starts managing its Keep Distributors Stocked value stream as one stream: the full path a distributor takes as its customer. The stream triggers when a distributor faces costly stockouts, and its value proposition is to avoid stockouts through confident inventory decisions. It runs through six value stages, each ending in a value item:
 
 - **Attract & Engage**, ending when the cost of the distributor’s stockouts is understood
 - **Evaluate & Commit**, ending when the outcome is agreed in the contract
@@ -65,9 +65,9 @@ One leader owns the stream end to end. Stockout prevention becomes an initiative
 
 *Strategy sets the why, the value stream delivers the how, and measurement carries evidence back up to every layer.*
 
-The initiative focuses on Adopt & Use, the stage where the product outcome is realized and where the most value leaks. Inventory managers at the distributor take part, supported by Stocklight’s support and product teams. It depends on Stocklight’s customer success capability, specifically adoption management, and runs through one process: driving account adoption. The alerts themselves are the solution, an enabler of the outcome, not the outcome.
+The initiative focuses on Adopt & Use, the stage where the product outcome is realized and where the most value leaks. Inventory managers at the distributor take part, supported by Stocklight’s support and product teams. It depends on Stocklight’s value realization capability, specifically Adoption Management, and runs through one process: driving account adoption. The alerts themselves are the solution, an enabler of the outcome, not the outcome.
 
-People from product, sales, installation, and support all work in the stream. They still belong to their capabilities, which remain their home for expertise and standards. But they share the stream's measures: emergency orders falling, inventory managers acting on alerts, and distributors renewing.
+People from product, sales, installation, and support all work in the stream. They still belong to their functions, which remain their home for expertise and standards. But they share the stream's measures: emergency orders falling, inventory managers acting on alerts, and distributors renewing.
 
 Here’s how the stream closes each leak.
 
@@ -105,7 +105,7 @@ Stocklight’s 90-day onboarding spans two stages: Connect & Configure and Onboa
 
 *The leak: intent becomes misaligned or incomplete deliverables.*
 
-A value stream states its intent once as a chain of outcomes, and every capability works toward that chain instead of its own version. Deliverables are judged by what they contribute, not by whether they were completed.
+A value stream states its intent once as a chain of outcomes, and every function works toward that chain instead of its own version. Deliverables are judged by what they contribute, not by whether they were completed.
 
 At Stocklight, the forecasting module is no longer the goal. Emergency orders falling 30% is. Each layer explains the one below it: renewals rise because emergency orders fall, and emergency orders fall because inventory managers act on alerts. People question work that won’t move those numbers before it’s built, and they add missing work, like alerts, even though no one’s original plan included it.
 
@@ -125,7 +125,7 @@ Different industries, different eras, same principle: an outcome needs an owner,
 
 ## What ownership requires
 
-Naming an owner is easy. Ownership only works when it comes with authority across boundaries. An owner who can’t change priorities in the capabilities their outcome depends on has accountability without leverage. Often the function that feels the pain of a broken stream has the least authority to fix it, and that imbalance is exactly what ownership is meant to remove.
+Naming an owner is easy. Ownership only works when it comes with authority across boundaries. An owner who can’t change priorities in the functions their outcome depends on has accountability without leverage. Often the function that feels the pain of a broken stream has the least authority to fix it, and that imbalance is exactly what ownership is meant to remove.
 
 Ownership also changes how we handle failure. When one person owns an outcome, a miss becomes visible early, while it’s still a decision rather than a post-mortem. It’s much harder to call a failure an execution problem when the strategy and the execution have the same owner.
 
@@ -133,13 +133,13 @@ Ownership also changes how we handle failure. When one person owns an outcome, a
 
 State a value stream as clearly as a strategy. Here’s Stocklight’s:
 
-> *The **Customer Experience** value stream turns our intent to **help distributors avoid stockouts** into **fewer stockouts and confident inventory decisions** for **regional industrial distributors**, owned by **one accountable leader**, with **product, sales, installation, and support** contributing, measured by **emergency orders falling 30% within 60 days of go-live and renewal rate rising from 82% to 92% by Q4 2027**, and if **fewer than 70% of inventory managers act on our alerts in their first month**, **the stream owner** decides whether to persist, retune, re-resource, or stop.*
+> *The **Keep Distributors Stocked** value stream turns our intent to **help distributors avoid stockouts** into **fewer stockouts and confident inventory decisions** for **regional industrial distributors**, owned by **one accountable leader**, with **product, sales, installation, and support** contributing, measured by **emergency orders falling 30% within 60 days of go-live and renewal rate rising from 82% to 92% by Q4 2027**, and if **fewer than 70% of inventory managers act on our alerts in their first month, read by the end of Q1 2027**, **the stream owner** decides whether to persist, retune, re-resource, or stop.*
 
 **Template 4: the value stream statement.** And the template:
 
-> *The **[name]** value stream turns our intent to **[strategic intent]** into **[outcome]** for **[customers or stakeholders]**, owned by **[one accountable leader]**, with **[contributing capabilities]** contributing, measured by **[outcome measure and time frame]**, and if **[signal that we’re wrong, and by when]**, **[who decides]** decides whether to persist, retune, re-resource, or stop.*
+> *The **[name]** value stream turns our intent to **[strategic intent]** into **[outcome]** for **[customers or stakeholders]**, owned by **[one accountable leader]**, with **[contributing functions]** contributing, measured by **[outcome measure and time frame]**, and if **[signal that we’re wrong, and by when]**, **[who decides]** decides whether to persist, retune, re-resource, or stop.*
 
-The last clause is the stream’s rejection condition: the signal, named in advance, that the approach is wrong, and who decides what happens next.
+The last clause holds the stream’s rejection condition: the result, named in advance, that would show the approach is wrong, and the date by which it is read. It also names who decides what happens next.
 
 If you can’t name one owner, you’ve found your first problem.
 

@@ -49,7 +49,7 @@ None of these shows up in the outcome’s measure. All three show up in the stak
 
 Stocklight, the illustrative company we’ve followed through this series, sells inventory visibility software to regional industrial distributors. Its strategy bets that inventory managers will act on alerts delivered inside the warehouse systems they already run, and it set a test with 10 distributors in Q1 2027 to find out.
 
-Three months into that test, the Customer Experience stream owner’s review looked good:
+Three months into that test, the Keep Distributors Stocked stream owner’s review looked good:
 
 > ***The bet:*** *78% of inventory managers acted on an alert in their first month, against a rejection condition of fewer than 70%*
 
@@ -57,17 +57,17 @@ Three months into that test, the Customer Experience stream owner’s review loo
 
 > ***Activation team:*** *time from signed contract to first alert acted on, down from 90 days to 41*
 
-The bet held, and every outcome moved in the right direction. The stream owner was ready to scale beyond the test.
+The bet held, and every outcome moved in the right direction. The stream owner was ready to recommend scaling beyond the test.
 
 Then the Adoption team ran its monthly discovery visits, and the inventory managers told a different story. Read against the three tests, every headline outcome came apart:
 
 → **Efficiency.** “Acted on” counted any acknowledgment of an alert. Inventory managers got 30 to 40 alerts a day, most for slow-moving items that weren’t at real risk. A typical manager spent more than an hour a day clearing them, and two distributors had assigned a second person just to keep up. Stocklight promised less work and delivered more.
 
-→ **Experience.** After a run of early false alarms, managers didn’t trust the thresholds, so most still checked their spreadsheet before placing an order. The share still acting on alerts in their third month was 54%, below the 60% target and falling. The value stream promised confident inventory decisions. Managers felt it was one more queue to watch.
+→ **Experience.** After a run of early false alarms, managers didn’t trust the thresholds: at the discovery visits, only about one in four said they did. What they did showed the same thing. Most still checked their spreadsheet before placing an order, and the share still acting on alerts in their third month was 54% and falling. The value stream promised confident inventory decisions. Managers felt it was one more queue to watch.
 
 → **Effectiveness.** Emergency orders were falling, but at three of the ten distributors the drop came from raising safety stock after the false alarms, not from acting on alerts earlier. Those distributors had fewer stockouts and more cash tied up in inventory. The outcome moved, but the problem the strategy diagnosed, that distributors act on inventory data too late, hadn’t changed.
 
-Every outcome passed. Every test failed. Had the stream owner scaled on that review, Stocklight would have rolled alert fatigue out to its whole customer base and found out when renewals came due, long after changing course was cheap.
+Every outcome passed. Every test failed. Had Stocklight scaled on that review, it would have rolled alert fatigue out to its whole customer base and found out when renewals came due, long after changing course was cheap.
 
 ## Stocklight, after
 
@@ -79,7 +79,7 @@ The fix sat inside the team’s own authority. The team outcome brief from the l
 
 → **Efficiency (Use):** alerts per manager per day, target under eight, and time spent on alerts, target under 15 minutes a day. Reviewed weekly.
 
-→ **Experience (Feel):** the share of managers who order from an alert without checking their spreadsheet first, and the share still acting in their third month, target 60%. Reviewed weekly, with monthly discovery visits.
+→ **Experience (Feel):** the share of managers who say they trust the alert thresholds, target 60% or more, a starting band set from the first visits. Asked at the monthly discovery visits. What managers then do, ordering straight from an alert and still acting in their third month, is behavior, not feeling: the [Adoption, Engagement, Retention (AER)](https://github.com/Insheights/in-frameworks/blob/master/aer.md) model reads it as engagement, and the next article picks it up.
 
 → **Effectiveness (Achieve):** emergency orders falling 30% within 60 days of go-live, with safety stock flat or lower. Reviewed monthly.
 
@@ -87,9 +87,11 @@ The last clause matters most. “With safety stock flat or lower” closes the w
 
 ![](images/02.png)
 
-Six weeks later, managers were getting about six alerts a day and clearing them in under 15 minutes. Most were ordering straight from the alert, and the share still acting in their third month had risen to 63%. Emergency orders were down 27% with safety stock flat. The headline outcome had moved less than the first review showed. All of it was now real.
+Six weeks later, managers were getting about six alerts a day and clearing them in under 15 minutes. Seven in ten said they now trusted the thresholds. Most were ordering straight from the alert, and the share still acting in their third month had risen to 63%. Emergency orders were down 27% with safety stock flat. The headline outcome had moved less than the first review showed. All of it was now real.
 
 The redefinition also reached the Activation team. Its time to first value went from 41 days to 52 overnight, because a first alert “acted on” now meant an order, not a click. Nothing about onboarding had changed. The measure had simply stopped flattering it, and the team now knew the real distance to its 30-day target.
+
+It reached the strategy too. “Acted on” was also the measure in the bet’s rejection condition: fewer than 70% of inventory managers acting on alerts in their first month. The bet had passed at 78% under the old definition, and that reading no longer counted. Changing what a rejection condition measures makes a new hypothesis, so the stream owner took it to the decision forum, where the executive team decides. The 78% run stayed in the decision log, marked as read on a flawed measure. The new definition went in as a new hypothesis, with the reason and a date to read it by. The forum gave the hypothesis its status first, then decided whether to persist, retune, re-resource, or stop.
 
 The same tests apply at every link of the chain, not only at the team level. Revenue growth toward $40M that costs more to serve than it earns fails Efficiency. Renewals won with discounts from distributors who don’t trust the product fail Experience. The stream owner and leadership ask the same three questions about their outcomes as the teams do about theirs, but on a slower cadence.
 
@@ -115,7 +117,7 @@ The common lesson: a moved outcome tells you something changed. The stakeholder 
 
 Stocklight’s Adoption team:
 
-> *For emergency orders falling 30% within 60 days of go-live at the Adopt & Use stage, inventory managers can use it if alerts stay below eight a day and take less than 15 minutes to clear; they feel it if 70% order from an alert without checking a spreadsheet first and 60% still act on alerts in their third month; and they achieve it if emergency orders fall 30% within 60 days of go-live without safety stock rising. We read Use weekly, Feel weekly with monthly discovery visits, and Achieve monthly, in that order.*
+> *For emergency orders falling 30% within 60 days of go-live at the Adopt & Use stage, inventory managers can use it if alerts stay below eight a day and take less than 15 minutes to clear; they feel it if at least 60% say they trust the alert thresholds, a starting band set from the first visits’ baseline of about one in four; and they achieve it if emergency orders fall 30% within 60 days of go-live without safety stock rising. We read Use weekly, Feel at the monthly discovery visits, and Achieve monthly, in that order.*
 
 If you can’t fill in the “without” blank, you haven’t yet asked how your outcome could move without creating value. Someone on your team will eventually find out for you. In the Insheights Integrated Value Creation System (IIVCS), the [3E model](https://github.com/Insheights/in-frameworks/blob/master/3e.md) defines the three tests, and the [metrics and indicators guide](https://github.com/Insheights/in-frameworks/blob/master/metrics-and-indicators.md#part-5--thresholds-and-reference-bars) gives candidate signals for each and how to set their thresholds.
 
