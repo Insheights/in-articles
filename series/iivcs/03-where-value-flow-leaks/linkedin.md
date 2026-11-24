@@ -2,8 +2,8 @@
 article: article.md
 platform: linkedin
 status: published
-published: ~
-url: ~
+published: 2026-10-06
+url: https://lnkd.in/p/gkudBERk
 ---
 
 # LinkedIn post: Where Value Flow Leaks in Your Operating Model

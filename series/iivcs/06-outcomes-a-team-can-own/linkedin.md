@@ -2,8 +2,8 @@
 article: article.md
 platform: linkedin
 status: published
-published: ~
-url: ~
+published: 2026-10-31
+url: https://lnkd.in/p/gmkPepSb
 ---
 
 # LinkedIn post: From Strategic Intent to Outcomes an Empowered Team Can Own
@@ -48,6 +48,6 @@ A test for yours: ask one team lead to brief back, without notes, what outcome t
 
 The full article, with the team outcome brief template and the updated value stream diagram: https://lnkd.in/gXSdaNkX
 
-The framework behind this series: https://lnkd.in/gBsqbmA5
+The frameworks behind this series: https://lnkd.in/gBsqbmA5
 
 #StrategyExecution #EmpoweredTeams #DigitalTransformation #ProductManagement #OperatingModel

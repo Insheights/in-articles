@@ -2,8 +2,8 @@
 article: article.md
 platform: linkedin
 status: published
-published: ~
-url: ~
+published: 2026-09-27
+url: https://lnkd.in/p/gGsjqDtv
 ---
 
 # LinkedIn post: Product Mindset Is How the Whole Company Should Think

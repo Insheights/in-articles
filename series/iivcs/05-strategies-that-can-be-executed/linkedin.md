@@ -2,8 +2,8 @@
 article: article.md
 platform: linkedin
 status: published
-published: ~
-url: ~
+published: 2026-10-21
+url: https://lnkd.in/p/g6VZYx8c
 ---
 
 # LinkedIn post: Why Most Strategies Can’t Be Executed as Written, and What It Takes to Write One That Can
@@ -31,7 +31,7 @@ A strategy is executable when a team lead, reading only the page, would make the
 → Value delivery: what customers will achieve, and how you'll know they got it
 
 Rewritten, Stocklight's strategy statement reads as a bet:\
-Distributors don't lack inventory data; they act on it too late. By 2028, we'll grow revenue to $40M by delivering alerts inside the warehouse systems they already run, rather than building a new dashboard, and we'll defer new regions until renewals reach 88%. We're betting inventory managers will act on alerts there. We'll test it with 10 distributors in Q1 2027 and revisit if fewer than 70% act in their first month.
+Distributors don't lack inventory data; they act on it too late. By 2028, we'll grow revenue to $40M by delivering alerts inside the warehouse systems they already run, rather than building a new dashboard, and we'll defer new regions until renewals reach 88%. We're betting inventory managers will act on alerts there. We'll test it with 10 distributors in Q1 2027 and if fewer than 70% act in their first month, the stream owner decides whether to persist, retune, re-resource, or stop.
 
 It's harder to agree to than the original. That's the sign it can be executed.
 
@@ -41,6 +41,6 @@ A test for yours: hand your strategy to a team lead and ask them to make one rea
 
 The full article, with templates and the Stocklight value stream diagram: https://lnkd.in/gTTvmfCb
 
-The framework behind this series: https://lnkd.in/gBsqbmA5
+The frameworks behind this series: https://lnkd.in/gBsqbmA5
 
 #DigitalTransformation #BusinessStrategy #ProductManagement #OperatingModel #Leadership

@@ -2,8 +2,8 @@
 article: article.md
 platform: linkedin
 status: published
-published: ~
-url: ~
+published: 2026-10-14
+url: https://lnkd.in/p/gv4vEV4C
 ---
 
 # LinkedIn post: Managing the Flow of Value from Strategy to Customer as One Continuous Stream, Owned End to End
@@ -40,6 +40,6 @@ A test for your organization: pick your most important outcome this year. Who wo
 
 The full article, with the strategy-to-execution diagram and a template for defining your own value stream: https://lnkd.in/ggkEKCVQ
 
-The framework behind this series: https://lnkd.in/gBsqbmA5
+The frameworks behind this series: https://lnkd.in/gBsqbmA5
 
 #ProductManagement #ValueStreams #ProductMindset #BusinessStrategy #DigitalTransformation #Leadership #EnterpriseArchitecture
