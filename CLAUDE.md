@@ -29,4 +29,4 @@ If `../in-scope` is not present, keep to edits the owner asked for in that sessi
 
 ## Writing rules
 
-How the articles are written (terms, structure, templates, voice) is kept privately in `in-scope`, where articles are drafted and reviewed: `../in-scope/rules/article-writing.md`. Read it before writing or editing article text. Without `../in-scope`, keep to edits the owner asked for, as above.
+How the articles are written (terms, structure, templates, voice) is kept privately in `in-scope`, where articles are drafted and reviewed: `../in-scope/rules/article-writing.md`. Read it before writing or editing any text here: an article, the README or a series index. Without `../in-scope`, keep to edits the owner asked for, as above.
