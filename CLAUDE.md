@@ -21,16 +21,12 @@ What is written, in what order, and how each article is reviewed before publishi
 
 If `../in-scope` is not present, keep to edits the owner asked for in that session.
 
-## Writing rules
+## Repo rules
 
 - **Published means as published.** An article with `status: published` matches its published copy. A correction is reviewed in `in-scope` like a new article, and the owner decides; it is then made here and on the published copy together.
-- **IIVCS terms follow `in-frameworks`.** Use each term exactly as in its `glossary.md`, and link to the framework rather than restating it.
-- **The `in-frameworks` writing rules apply here too.** Spell out every acronym at its first use on each page, the README and each series index included: "Insheights Integrated Value Creation System (IIVCS)", "Organization Strategy Model (OSM)". One fact, one home: link to a definition, a template or an earlier article rather than restating it.
-- **Name the framework element the article teaches.** One sentence, wherever it fits best, with a deep link to it in `in-frameworks` (the guide step, the model, the glossary entry). Link only to what exists there: the templates and the Stocklight examples live in the articles, not in the framework repo.
-- **Number templates across the series.** "Template N: <what it is>." A new article continues from the last whole number used.
-- **Summarise, don't re-quote.** When an article builds on an earlier one, give a short "story so far" and link back, rather than restating earlier statements in full.
-- **Say what IIVCS does, not what other frameworks fail to do.** Credit general practice as general practice, and name a source when one exists.
-- **No Insheights engagements or services.** Articles, LinkedIn posts and replies to readers' comments teach the method to whoever runs it. They don't mention Insheights engagements, facilitation, or how to book either. Engagement as an Adoption, Engagement, Retention (AER) stage is unaffected.
-- **End a new series article's `## What comes next`** with the link to `in-frameworks` and the Quick Self-Assessment line, as in `templates/article.md`. A closing question to the reader may follow them.
 - **Front matter is complete.** Every `article.md` carries the fields in `templates/article.md`.
 - **Images live beside the article,** in its `images/` folder, referenced by relative path.
+
+## Writing rules
+
+How the articles are written (terms, structure, templates, voice) is kept privately in `in-scope`, where articles are drafted and reviewed: `../in-scope/rules/article-writing.md`. Read it before writing or editing article text. Without `../in-scope`, keep to edits the owner asked for, as above.
