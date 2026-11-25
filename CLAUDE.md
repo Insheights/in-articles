@@ -30,6 +30,7 @@ If `../in-scope` is not present, keep to edits the owner asked for in that sessi
 - **Number templates across the series.** "Template N: <what it is>." A new article continues from the last whole number used.
 - **Summarise, don't re-quote.** When an article builds on an earlier one, give a short "story so far" and link back, rather than restating earlier statements in full.
 - **Say what IIVCS does, not what other frameworks fail to do.** Credit general practice as general practice, and name a source when one exists.
+- **No Insheights engagements or services.** Articles, LinkedIn posts and replies to readers' comments teach the method to whoever runs it. They don't mention Insheights engagements, facilitation, or how to book either. Engagement as the AER behavior is unaffected.
 - **End a new series article's `## What comes next`** with the link to `in-frameworks` and the Quick Self-Assessment line, as in `templates/article.md`. A closing question to the reader may follow them.
 - **Front matter is complete.** Every `article.md` carries the fields in `templates/article.md`.
 - **Images live beside the article,** in its `images/` folder, referenced by relative path.
