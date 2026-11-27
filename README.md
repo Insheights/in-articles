@@ -25,6 +25,7 @@ How value flows from strategy to customer, and where it leaks on the way, told t
 | 6 | [From Strategic Intent to Outcomes an Empowered Team Can Own](series/iivcs/06-outcomes-a-team-can-own/article.md) | 2026-10-31 |
 | 7 | [Efficiency, Experience, Effectiveness: The Three Tests of Real Value](series/iivcs/07-three-tests-of-real-value/article.md) | 2026-11-04 |
 | 8 | [Adoption, Engagement, Retention: The Behaviors That Show Value Before Results Do](series/iivcs/08-behaviors-that-show-value/article.md) | 2026-11-24 |
+| 9 | [Let Customer Behavior Write Your Next Hypothesis](series/iivcs/09-customer-behavior-next-hypothesis/article.md) | 2026-11-27 |
 
 ---
 

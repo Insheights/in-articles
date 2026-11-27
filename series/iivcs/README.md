@@ -20,3 +20,4 @@ Articles are numbered in the order they are published.
 ## Part 3 — Delivering and proving value
 
 8. [Adoption, Engagement, Retention: The Behaviors That Show Value Before Results Do](08-behaviors-that-show-value/article.md)
+9. [Let Customer Behavior Write Your Next Hypothesis](09-customer-behavior-next-hypothesis/article.md)
