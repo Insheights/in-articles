@@ -5,7 +5,7 @@ series: iivcs
 number: 9
 status: published
 published: 2026-11-27
-medium_url: ~
+medium_url: https://medium.com/@xambrose/let-customer-behavior-write-your-next-hypothesis-ef67a5d19861
 canonical: ~
 ---
 
