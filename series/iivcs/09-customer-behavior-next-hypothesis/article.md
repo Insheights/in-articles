@@ -123,7 +123,7 @@ Discovery as a continuous practice is general product practice, and several rese
 
 Stocklight’s Adoption team:
 
-> *We saw managers top up 18% of below-minimum orders by hand with items that hadn’t alerted. We believe they’re clearing the supplier’s freight minimum. If reorder from an alert suggests the nearly-due items that would clear it, we expect at least 45% of below-minimum orders to clear it at four distributors by the six-week read, and orders shipping below the minimum to fall from 45 in 100 toward 30 by the next quarter, with safety stock flat. We’ll reject this if fewer than 45% clear by the six-week read, or if safety stock rises by more than two days of cover. The band is worked back from a third fewer below-minimum orders and sits above the 18% cleared by hand. Below it we go back to the visits; inside it we retune; above 65% we widen to all ten.*
+> *We saw managers top up 18% of below-minimum orders by hand with items that hadn’t alerted. We believe they’re clearing the supplier’s freight minimum. If reorder from an alert suggests the nearly-due items that would clear it, we expect at least 45% of below-minimum orders to clear it at four distributors by the six-week read, and orders shipping below the minimum to fall from 45 in 100 toward 30 by the next quarter, with safety stock flat. We’ll reject this if fewer than 45% clear by the six-week read, or if safety stock rises by more than two days of cover. The band is worked back from a third fewer orders shipping below the minimum and sits above the 18% cleared by hand. Below it we go back to the visits; inside it we retune; above 65% we widen to all ten.*
 
 ## Test your own
 
