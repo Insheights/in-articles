@@ -2,8 +2,8 @@
 article: article.md
 platform: linkedin
 status: published
-published: ~
-url: ~
+published: 2026-11-27
+url: https://www.linkedin.com/feed/update/urn:li:activity:7532140326229196800/
 ---
 
 # LinkedIn post: Let Customer Behavior Write Your Next Hypothesis
@@ -41,9 +41,9 @@ A first band isn't a forecast. It's the smallest result worth having, with each 
 
 The article includes a template for a behavior-led hypothesis: what you saw, what you'll test, and the band that decides it.
 
-Full article, Let Customer Behavior Write Your Next Hypothesis: [Medium link]
+Full article, Let Customer Behavior Write Your Next Hypothesis: https://lnkd.in/g9Hj86Pp
 
-The frameworks behind this series: https://github.com/Insheights/in-frameworks
+The frameworks behind this series: https://lnkd.in/gBsqbmA5
 
 When did your team last change its plan because of something customers did, not something they said?
 
